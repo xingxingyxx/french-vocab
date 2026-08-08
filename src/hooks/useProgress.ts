@@ -9,6 +9,40 @@ const DEFAULT_STATS: UserStats = {
   lastStudyDate: null,
 };
 
+// Day 1 group IDs that are pre-completed in the seed
+const DAY_1_GROUP_IDS = [1, 2, 3, 4, 5, 6];
+
+async function seedDay1Progress(
+  saveStats: (stats: UserStats) => Promise<void>,
+  saveProgress: (progress: DailyProgress) => Promise<void>,
+): Promise<{ stats: UserStats; todayProgress: DailyProgress }> {
+  const today = new Date().toISOString().split('T')[0];
+  const now = new Date().toISOString();
+
+  const stats: UserStats = {
+    streak: 1,
+    totalWordsLearned: DAY_1_GROUP_IDS.length * 5,
+    totalGroupsCompleted: DAY_1_GROUP_IDS.length,
+    lastStudyDate: today,
+  };
+
+  const todayProgress: DailyProgress = {
+    date: today,
+    studiedAt: now,
+    completedGroups: DAY_1_GROUP_IDS.map(groupId => ({
+      groupId,
+      completed: true,
+      completedAt: now,
+      quizScore: 5,
+    })),
+  };
+
+  await saveStats(stats);
+  await saveProgress(todayProgress);
+
+  return { stats, todayProgress };
+}
+
 export function useProgress() {
   const { isReady, getProgress, saveProgress, getAllProgress, getStats, saveStats } = useIndexedDB();
   const [stats, setStats] = useState<UserStats>(DEFAULT_STATS);
@@ -22,17 +56,23 @@ export function useProgress() {
     const loadData = async () => {
       try {
         const savedStats = await getStats();
-        if (savedStats) {
-          setStats(savedStats);
-        }
 
-        const today = new Date().toISOString().split('T')[0];
-        const progress = await getProgress(today);
-        setTodayProgress(progress || {
-          date: today,
-          completedGroups: [],
-          studiedAt: undefined,
-        });
+        if (!savedStats || savedStats.totalGroupsCompleted === 0) {
+          // First time running — seed Day 1 progress
+          const seeded = await seedDay1Progress(saveStats, saveProgress);
+          setStats(seeded.stats);
+          setTodayProgress(seeded.todayProgress);
+        } else {
+          setStats(savedStats);
+
+          const today = new Date().toISOString().split('T')[0];
+          const progress = await getProgress(today);
+          setTodayProgress(progress || {
+            date: today,
+            completedGroups: [],
+            studiedAt: undefined,
+          });
+        }
       } catch (err) {
         console.error('Failed to load progress:', err);
       }
@@ -40,7 +80,7 @@ export function useProgress() {
     };
 
     loadData();
-  }, [isReady, getStats, getProgress]);
+  }, [isReady, getStats, getProgress, saveStats, saveProgress]);
 
   // Calculate streak
   const calculateStreak = useCallback(async (): Promise<number> => {
