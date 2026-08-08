@@ -1,0 +1,3198 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "orderInDay": 1,
+    "theme": "Basic Greetings",
+    "themeZh": "基础问候",
+    "emoji": "👋",
+    "wordIds": [
+      1,
+      2,
+      16,
+      11,
+      5
+    ],
+    "story": "出门说 Bonjour👋蹦如喝，\n朋友见面说 Salut🙋萨律，\n傍晚到了说 Bonsoir🌆蹦丝哇喝，\n寒暄问好 Ça va?😊萨哇，\n临走挥手 Au revoir👋欧喝乌哇喝。\n\n💡口诀：蹦如喝你好，萨律嗨朋友，蹦丝哇喝晚上好，萨哇还好吗，欧喝乌哇喝再见！"
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "orderInDay": 2,
+    "theme": "Politeness",
+    "themeZh": "礼貌用语",
+    "emoji": "🙏",
+    "wordIds": [
+      3,
+      6,
+      7,
+      4,
+      8
+    ],
+    "story": "受人恩惠说 Merci🙏麦喝C，\n有求于人 S'il vous plaît🤲C了乌普赖，\n别人道谢回 De rien😊的喝厌，\n道歉认错说 Pardon🙇巴喝动，\n正式场合 Excusez-moi🤚埃克斯归zei木哇。\n\n💡口诀：麦喝C谢谢，C了乌普赖请，的喝厌不客气，巴喝动对不起，埃克斯归zei木哇打扰了！"
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "orderInDay": 3,
+    "theme": "Yes No OK",
+    "themeZh": "是非应答",
+    "emoji": "✅",
+    "wordIds": [
+      9,
+      10,
+      15,
+      11,
+      12
+    ],
+    "story": "问要不要？Oui✅喂！\n问对不对？Non❌弄！\n问行不行？D'accord👌达告喝！\n问还好吗？Ça va😊萨哇！\n回挺好的！Bien👍比安！\n\n💡口诀：喂对弄不对，达告喝是好的，萨哇还行吧，比安就是棒！"
+  },
+  {
+    "id": 4,
+    "day": 1,
+    "orderInDay": 4,
+    "theme": "People & Titles",
+    "themeZh": "称呼人物",
+    "emoji": "👤",
+    "wordIds": [
+      17,
+      18,
+      20,
+      19,
+      12
+    ],
+    "story": "Monsieur👨莫西约先生好，\nMadame👩马大么是女士，\n自我介绍 Je m'appelle🤝热马拜了，\n别人问你 Comment?❓够芒，\n样样顺利 Bien👍比安！\n\n💡口诀：莫西约先生马大么女士，热马拜了我叫啥，够芒怎么称呼你，比安样样都很好！"
+  },
+  {
+    "id": 5,
+    "day": 1,
+    "orderInDay": 5,
+    "theme": "Time Basics",
+    "themeZh": "时间基础",
+    "emoji": "🕐",
+    "wordIds": [
+      21,
+      22,
+      23,
+      24,
+      29
+    ],
+    "story": "Aujourd'hui📅欧如喝对是今天，\nDemain📆的慢等到明天，\nHier📅夜喝已经昨天，\nMaintenant⏰慢特弄是现在，\nHeure🕐饿喝几点几点！\n\n💡口诀：欧如喝对今天，的慢等明天，夜喝已昨天，慢特弄现在，饿喝问几点！"
+  },
+  {
+    "id": 6,
+    "day": 1,
+    "orderInDay": 6,
+    "theme": "Morning to Night",
+    "themeZh": "早中晚",
+    "emoji": "🌅",
+    "wordIds": [
+      27,
+      30,
+      28,
+      16,
+      13
+    ],
+    "story": "Matin🌅马旦清早起，\nMidi☀️米地正午时分，\nSoir🌆丝哇喝傍晚到，\nBonsoir🌙蹦丝哇喝晚上好，\nBon🆗棒的一切都好！\n\n💡口诀：马旦早晨米地午，丝哇喝傍晚蹦丝哇喝晚上，棒的就是好！"
+  },
+  {
+    "id": 7,
+    "day": 2,
+    "orderInDay": 1,
+    "theme": "Bakery Staples",
+    "themeZh": "面包房主食",
+    "emoji": "🥖",
+    "wordIds": [
+      31,
+      32,
+      35,
+      47,
+      79
+    ],
+    "story": "清晨去逛 boulangerie（布朗日喝衣），买个 pain（蹦）香喷喷，抹上 beurre（布喝）软绵绵，配上 fromage（夫喝哦马日）味鲜美，嫌不够甜撒点 sucre（续克喝）。法式早餐就这样，简单幸福每一天！"
+  },
+  {
+    "id": 8,
+    "day": 2,
+    "orderInDay": 2,
+    "theme": "Beverages",
+    "themeZh": "饮品",
+    "emoji": "☕",
+    "wordIds": [
+      33,
+      34,
+      63,
+      64,
+      65
+    ],
+    "story": "口干要喝 eau（哦）解渴先，早上来杯 café（嘎费）精神添，下午泡壶 thé（得）好悠闲，晚餐开瓶 vin（万）醇又甜，周末再约 bière（别喝）乐无边。法国人喝水喝酒喝咖啡，样样都有讲究见！"
+  },
+  {
+    "id": 9,
+    "day": 2,
+    "orderInDay": 3,
+    "theme": "Proteins & Staples",
+    "themeZh": "肉类与主食",
+    "emoji": "🥩",
+    "wordIds": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "story": "早餐吃个 œuf（鄂夫）煎一煎，午餐点份 poulet（铺嘞）嫩又鲜，晚餐来块 viande（维样的）香满院，周五必吃 poisson（普瓦送）最新鲜，顿顿少不了的 riz（喝衣）白米饭。法国餐桌的蛋白质，荤素搭配营养全！"
+  },
+  {
+    "id": 10,
+    "day": 2,
+    "orderInDay": 4,
+    "theme": "Side Dishes & Condiments",
+    "themeZh": "配菜与调料",
+    "emoji": "🧂",
+    "wordIds": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "story": "前菜来个 salade（萨拉德）清爽口，主菜配上 pâtes（爸特）裹酱稠，冬天喝碗 soupe（素普）暖心头，调味撒点 sel（塞了）刚刚够，再磨一圈 poivre（普瓦夫喝）香飘久。法国料理的灵魂，全在调料配菜里头！"
+  },
+  {
+    "id": 11,
+    "day": 2,
+    "orderInDay": 5,
+    "theme": "Desserts & Sweets",
+    "themeZh": "甜品",
+    "emoji": "🍰",
+    "wordIds": [
+      48,
+      49,
+      50,
+      67,
+      68
+    ],
+    "story": "饭后甜点 choix 多多看不完，chocolat（烧高辣）慕斯丝滑般，gâteau（嘎豆）生日许心愿，glace（格拉丝）夏天解暑炎，fraise（夫喝爱子）红红 pomme（波姆）圆圆。甜蜜蜜的法式生活，从甜点开始灿烂！"
+  },
+  {
+    "id": 12,
+    "day": 3,
+    "orderInDay": 1,
+    "theme": "Fruits",
+    "themeZh": "水果",
+    "emoji": "🍎",
+    "wordIds": [
+      69,
+      70,
+      71,
+      66,
+      72
+    ],
+    "story": "banane（巴难）黄黄补钾好，orange（哦喝昂日）橙橙维C宝，raisin（喝爱赞）紫紫酿酒妙，榨成 jus（日玉）一口喝掉，搭配 légume（雷格玉姆）蔬菜身体好。法国人逛市场，水果蔬菜装满包！"
+  },
+  {
+    "id": 13,
+    "day": 3,
+    "orderInDay": 2,
+    "theme": "Meals of the Day",
+    "themeZh": "一日三餐",
+    "emoji": "🍽️",
+    "wordIds": [
+      55,
+      56,
+      60,
+      61,
+      62
+    ],
+    "story": "早上起来 petit déjeuner（波地 得热内）吃可颂，中午 déjeuner（得热内）套餐好几种，晚上 dîner（地内）红酒配牛排，饿了就 manger（忙日诶）大口吃不用等，渴了就 boire（不瓦喝）把水捧。一日三餐法兰西，吃吃喝喝乐无穷！"
+  },
+  {
+    "id": 14,
+    "day": 3,
+    "orderInDay": 3,
+    "theme": "Taste & Temperature",
+    "themeZh": "味道与温度",
+    "emoji": "🌡️",
+    "wordIds": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "story": "喝汤要 chaud（受）不能等，沙拉要 froid（夫喝瓦）冰凉碰，甜点是 sucré（续克喝诶）心头宠，咸味叫 salé（萨雷）配肉用，样样都 délicieux（得里秀）把人哄。冷热甜咸四个字，品出法餐真滋味重！"
+  },
+  {
+    "id": 15,
+    "day": 3,
+    "orderInDay": 4,
+    "theme": "Dining Out",
+    "themeZh": "外出就餐",
+    "emoji": "🍴",
+    "wordIds": [
+      51,
+      52,
+      53,
+      54,
+      78
+    ],
+    "story": "走进 restaurant（喝爱丝豆喝）环境赞，打开 menu（么女）点菜慢慢看，选好就叫 commander（高忙得）不慌乱，上菜先要 goûter（姑得）尝一番，吃饱喊声 addition（阿迪熊）快买单。法国下馆子全流程，记住这五词就通关！"
+  },
+  {
+    "id": 16,
+    "day": 3,
+    "orderInDay": 5,
+    "theme": "Feelings & Occasions",
+    "themeZh": "吃喝感受与场合",
+    "emoji": "😋",
+    "wordIds": [
+      36,
+      57,
+      58,
+      59,
+      80
+    ],
+    "story": "早上喝杯 lait（嘞）暖暖心，逛到 marché（马喝谁）集市好开心，到了中午 faim（饭）辘辘催人紧，下了班后 soif（斯瓦夫）难忍要喝水，开吃前喊 appétit（阿杯地）胃口顶！愿你在法国的每一天，吃好喝好幸福安宁！"
+  },
+  {
+    "id": 27,
+    "day": 6,
+    "orderInDay": 1,
+    "theme": "At the Supermarket",
+    "themeZh": "逛超市",
+    "emoji": "🛒",
+    "wordIds": [
+      142,
+      149,
+      175,
+      148,
+      176
+    ],
+    "story": "走进 supermarché🛒需拜喝马喝谁 大超市，\n推个 caddie🛒嘎地 购物车不费力，\nfaire les courses🛍️哭喝斯 采购装满篮，\n袋子不够来只 sac👜萨克 装一起，\n带张 liste📋利斯特 清单样样记心底。\n\n💡口诀：需拜喝马喝谁超市进，嘎地推车跟着走，哭喝斯采购买买买，萨克袋子少不了，利斯特清单别忘掉！"
+  },
+  {
+    "id": 28,
+    "day": 6,
+    "orderInDay": 2,
+    "theme": "Asking the Price",
+    "themeZh": "询价问钱",
+    "emoji": "💰",
+    "wordIds": [
+      133,
+      153,
+      161,
+      135,
+      136
+    ],
+    "story": "看中东西问 prix💰扑黑 价格是多少，\ncombien 拱比安 多少钱随口问，\ncoûter 哭得 花费多少算一算，\n几 euro💶饿后 欧元掏出来，\nargent💸阿喝让 钱钱准备好付款。\n\n💡口诀：扑黑价格看清楚，拱比安多少钱问清楚，哭得花销心里有数，饿后欧元随时备，阿喝让钱钱带够数！"
+  },
+  {
+    "id": 29,
+    "day": 6,
+    "orderInDay": 3,
+    "theme": "Paying",
+    "themeZh": "付款结账",
+    "emoji": "💳",
+    "wordIds": [
+      137,
+      138,
+      139,
+      140,
+      179
+    ],
+    "story": "挑好东西到 caisse💳盖斯 收银台排队，\npayer 拜耶 付钱方式选一选，\ncarte bancaire💳嘎喝特棒盖喝 银行卡爽快刷，\nespèces💵埃斯拜斯 现金掏出来也行，\nmonnaie🪙莫奈 零钱找还别忘了拿。\n\n💡口诀：盖斯收银台前站，拜耶付钱莫拖延，嘎喝特棒盖喝刷卡快，埃斯拜斯现金掏，莫奈找零拿手上！"
+  },
+  {
+    "id": 30,
+    "day": 6,
+    "orderInDay": 4,
+    "theme": "Discounts & Bargains",
+    "themeZh": "打折促销",
+    "emoji": "🏷️",
+    "wordIds": [
+      150,
+      151,
+      152,
+      134,
+      168
+    ],
+    "story": "看到 réduction🏷️黑迪克熊 打折心欢喜，\nsolde🏷️收了德 促销季节快来抢，\ngratuit🎉哥哈对 免费的东西真惊喜，\ncher💎晒喝 贵的商品看看就好，\nbon marché🤑蹦马喝谁 便宜实惠才掏腰包。\n\n💡口诀：黑迪克熊折扣大，收了德促销快下手，哥哈对免费白拿走，晒喝太贵悠着点，蹦马喝谁便宜最划算！"
+  },
+  {
+    "id": 31,
+    "day": 6,
+    "orderInDay": 5,
+    "theme": "Clothes Shopping",
+    "themeZh": "服装购物",
+    "emoji": "👗",
+    "wordIds": [
+      155,
+      156,
+      157,
+      158,
+      154
+    ],
+    "story": "看中衣服 essayer👗诶塞耶 试穿走起，\n问句 taille📏太 尺码合不合适，\ngrand📐哥夯 偏大宽松晃荡荡，\npetit📏的滴 偏小紧绷不舒服，\n不行就 rendre🔄夯的喝 退换重挑一件。\n\n💡口诀：诶塞耶试穿莫害羞，太码大小要看清，哥夯大了换小号，的滴小了要找大，夯的喝退换再从头！"
+  },
+  {
+    "id": 32,
+    "day": 7,
+    "orderInDay": 1,
+    "theme": "At the Market",
+    "themeZh": "市场购物",
+    "emoji": "🥖",
+    "wordIds": [
+      141,
+      146,
+      147,
+      132,
+      131
+    ],
+    "story": "逛 magasin🥖马嘎赞 商店或市场找好货，\nvendeur👨‍💼忘的喝 店员热情来介绍，\nclient🛍️克力样 顾客你要买什么，\n摊主 vendre📢忘的喝 卖力吆喝叫卖声，\nacheter🛒阿湿得 买买买下手别犹豫。\n\n💡口诀：马嘎赞商店走起来，忘的喝店员来招待，克力样顾客你最大，忘的喝叫卖声声催，阿湿得掏钱买下来！"
+  },
+  {
+    "id": 33,
+    "day": 7,
+    "orderInDay": 2,
+    "theme": "Money & Banking",
+    "themeZh": "银行存取",
+    "emoji": "🏦",
+    "wordIds": [
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "story": "没钱就去 banque🏦棒克 银行走一趟，\ncompte📋拱特 账户余额查一查，\ndistributeur🏧地斯黑句的喝 ATM吐钞票，\néconomiser💰诶告诺米zei 省钱存钱好习惯，\n可别乱 dépenser💸得棒C 花钱如流水。\n\n💡口诀：棒克银行大门开，拱特账户随身带，地斯黑句的喝取款机，诶告诺米zei省钱好，得棒C花钱要收敛！"
+  },
+  {
+    "id": 34,
+    "day": 7,
+    "orderInDay": 3,
+    "theme": "Coins & Notes",
+    "themeZh": "硬币纸币",
+    "emoji": "🪙",
+    "wordIds": [
+      169,
+      170,
+      171,
+      172,
+      173
+    ],
+    "story": "兜里 pièce🪙皮爱斯 硬币叮当响，\nbillet💵比耶 纸币大钞花不掉，\nportefeuille👛报了特佛也 钱包鼓鼓保管好，\n出国 changer💱伤日诶 兑换外币别忘掉，\n不满意 rembourser↩️夯不喝C 退款往回要。\n\n💡口诀：皮爱斯硬币叮叮当，比耶大钞整张藏，报了特佛也钱包要看紧，伤日诶兑换算汇率，夯不喝C退款有保障！"
+  },
+  {
+    "id": 35,
+    "day": 7,
+    "orderInDay": 4,
+    "theme": "Specialty Shops",
+    "themeZh": "特色店铺",
+    "emoji": "🏪",
+    "wordIds": [
+      143,
+      144,
+      145,
+      174,
+      162
+    ],
+    "story": "生病去 pharmacie💊发喝马C 药房买药急，\n看书逛 librairie📚利不害黑 书店淘好书，\nboutique🛍️不提克 精品小店里寻宝贝，\n买礼物挑 cadeau🎁嘎都 送人好心意，\n结账要 facture🧾发克句喝 发票别忘取。\n\n💡口诀：发喝马C药房治病，利不害黑书海遨游，不提克小店淘宝，嘎都礼物表心意，发克句喝发票收好底！"
+  },
+  {
+    "id": 36,
+    "day": 7,
+    "orderInDay": 5,
+    "theme": "Store Essentials",
+    "themeZh": "商店常用",
+    "emoji": "🚪",
+    "wordIds": [
+      177,
+      178,
+      159,
+      160,
+      180
+    ],
+    "story": "到店先看 ouvert🚪乌外喝 开门营业没，\n别碰上 fermé🔒发喝美 关门白跑一趟，\n挑东西 assez👍阿C 差不多就够了吧，\ntrop🚫偷 太多太贵可不行啊，\n买单留好 reçu📄喝需 小票凭证拿回家。\n\n💡口诀：乌外喝开门迎客来，发喝美关门别吃闭门羹，阿C差不多就拿下，偷偷太贵要斟酌，喝需小票保留好退换！"
+  },
+  {
+    "id": 47,
+    "day": 10,
+    "orderInDay": 1,
+    "theme": "Types of Home",
+    "themeZh": "住所类型",
+    "emoji": "🏡",
+    "wordIds": [
+      231,
+      232,
+      254,
+      255,
+      279
+    ],
+    "story": "Maison🏡迈纵独栋带花园，\nAppartement🏢阿巴喝特芒高楼住，\nGarage🚗嘎哈日车有窝，\nCave🍷尬乌地下藏酒香，\nDéménager📦得梅那日诶搬新家。\n\n💡口诀：迈纵是别墅，阿巴喝特芒是公寓，嘎哈日车停地库，尬乌地下存杂物，得梅那日诶打包搬走说拜拜！"
+  },
+  {
+    "id": 48,
+    "day": 10,
+    "orderInDay": 2,
+    "theme": "Rooms at Home",
+    "themeZh": "房间名称",
+    "emoji": "🚪",
+    "wordIds": [
+      233,
+      234,
+      235,
+      236,
+      237
+    ],
+    "story": "Chambre🛏️上不喝卧房睡觉觉，\nCuisine🍳归Z因厨房把饭烧，\nSalon📺萨龙客厅看电视，\nSalle de bain🚿萨了的半浴室冲凉，\nToilettes🚽图瓦赖特厕所别忘掉。\n\n💡口诀：上不喝卧房睡，归Z因厨房做饭，萨龙客厅玩，萨了的半洗刷刷，图瓦赖特上厕所快去快回！"
+  },
+  {
+    "id": 49,
+    "day": 10,
+    "orderInDay": 3,
+    "theme": "Furniture Basics",
+    "themeZh": "基础家具",
+    "emoji": "🪑",
+    "wordIds": [
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    "story": "Table🪑大不乐桌上饭菜香，\nChaise🪑筛Z椅子坐稳当，\nLit🛏️里上床睡觉入梦乡，\nCanapé🛋️嘎那杯沙发瘫着爽，\nArmoire👗阿喝木哇喝衣橱装衣裳。\n\n💡口诀：大不乐桌子筛Z椅，里是床来睡觉去，嘎那杯沙发最舒服，阿喝木哇喝衣柜挂新衣！"
+  },
+  {
+    "id": 50,
+    "day": 10,
+    "orderInDay": 4,
+    "theme": "Building Features",
+    "themeZh": "房屋设施",
+    "emoji": "🪜",
+    "wordIds": [
+      238,
+      239,
+      247,
+      248,
+      249
+    ],
+    "story": "Porte🚪抱喝特门扉开与关，\nFenêtre🪟佛奈特喝窗透光线，\nEscalier🪜埃斯嘎列楼梯爬上爬，\nÉtage🏢诶大日楼层数一数，\nAscenseur🛗阿桑色喝电梯省力不用怕。\n\n💡口诀：抱喝特开门佛奈特喝窗，埃斯嘎列爬楼诶大日几层房，阿桑色喝电梯一按就到了！"
+  },
+  {
+    "id": 51,
+    "day": 10,
+    "orderInDay": 5,
+    "theme": "Around the House",
+    "themeZh": "房屋周边",
+    "emoji": "🌿",
+    "wordIds": [
+      245,
+      246,
+      250,
+      251,
+      252
+    ],
+    "story": "Miroir🪞咪喝哇喝镜子照模样，\nClé🔑克类钥匙不能忘，\nAdresse📍阿的害斯地址问路用，\nVoisin👋乌哇Z安邻居打招呼，\nJardin🌸日阿喝但花园晒太阳。\n\n💡口诀：咪喝哇喝镜前整衣冠，克类钥匙出门带身边，阿的害斯地址要记牢，乌哇Z安邻居问个好，日阿喝但花园赏花香！"
+  },
+  {
+    "id": 52,
+    "day": 11,
+    "orderInDay": 1,
+    "theme": "Kitchen Appliances",
+    "themeZh": "厨房电器",
+    "emoji": "🍳",
+    "wordIds": [
+      269,
+      270,
+      268,
+      257,
+      256
+    ],
+    "story": "Four🔥富喝烤箱烤蛋糕，\nFrigo🧊夫黑狗冰箱存食材，\nCuire🍲归喝烹饪火候调，\nÉlectricité⚡诶赖克特黑C得电来供，\nChauffage☀️收发日暖气暖烘烘。\n\n💡口诀：富喝烤箱烤，夫黑狗冰箱冰，归喝下厨忙，诶赖克特黑C得供电不能断，收发日暖气冬天暖洋洋！"
+  },
+  {
+    "id": 53,
+    "day": 11,
+    "orderInDay": 2,
+    "theme": "Tableware",
+    "themeZh": "餐具用品",
+    "emoji": "🍽️",
+    "wordIds": [
+      271,
+      272,
+      273,
+      274,
+      275
+    ],
+    "story": "Assiette🍽️阿C耶特盘子盛佳肴，\nVerre🥛外喝杯子水来倒，\nCouteau🔪固斗菜刀切肉片，\nFourchette🍴富喝晒特叉子叉菜好，\nCuillère🥄归耶喝汤勺舀一舀。\n\n💡口诀：阿C耶特盘子装，外喝杯子在手旁，固斗刀锋利快切，富喝晒特叉子稳稳叉，归耶喝勺子舀汤尝！"
+  },
+  {
+    "id": 54,
+    "day": 11,
+    "orderInDay": 3,
+    "theme": "Opening & Closing",
+    "themeZh": "开关操作",
+    "emoji": "🔌",
+    "wordIds": [
+      264,
+      265,
+      266,
+      267,
+      263
+    ],
+    "story": "Ouvrir🚪乌乌黑喝开门迎客到，\nFermer🔒费喝梅关好把门锁，\nAllumer💡阿绿梅开灯满堂亮，\nÉteindre🔅诶但的喝关灯省电妙，\nRéparer🔧黑巴黑维修自己动手搞。\n\n💡口诀：乌乌黑喝打开，费喝梅关掉，阿绿梅点亮，诶但的喝熄灭，黑巴黑坏了修一修就好！"
+  },
+  {
+    "id": 55,
+    "day": 11,
+    "orderInDay": 4,
+    "theme": "Cleaning & Hygiene",
+    "themeZh": "清洁卫生",
+    "emoji": "🧹",
+    "wordIds": [
+      259,
+      260,
+      261,
+      262,
+      277
+    ],
+    "story": "Propre✨迫好迫喝干净亮晶晶，\nSale🫣萨了脏了赶快清，\nNettoyer🧹耐图瓦耶打扫一间间，\nLaver💧拉威洗洗抹布擦，\nSavon🧼萨翁肥皂搓泡泡。\n\n💡口诀：迫好迫喝干净好开心，萨了脏了莫要等，耐图瓦耶动手来打扫，拉威水冲洗净净，萨翁香皂泡泡冒！"
+  },
+  {
+    "id": 56,
+    "day": 11,
+    "orderInDay": 5,
+    "theme": "Daily Routines",
+    "themeZh": "日常杂项",
+    "emoji": "🏠",
+    "wordIds": [
+      253,
+      276,
+      278,
+      258,
+      280
+    ],
+    "story": "Balcon🌿巴了共阳台晾衣晒，\nServiette🧻塞喝V耶特毛巾擦擦汗，\nPoubelle🗑️布拜了垃圾倒一倒，\nEau chaude🚿欧瘦的热水洗个澡，\nLouer💰路诶租房合同要签好。\n\n💡口诀：巴了共阳台上吹吹风，塞喝V耶特毛巾擦干手，布拜了垃圾桶要常清，欧瘦的热水澡真舒服，路诶租房记得看合同！"
+  },
+  {
+    "id": 37,
+    "day": 8,
+    "orderInDay": 1,
+    "theme": "Medical Visits & Hospital",
+    "themeZh": "看病就医",
+    "emoji": "🏥",
+    "wordIds": [
+      181,
+      182,
+      189,
+      211,
+      210
+    ],
+    "story": "看病要找「妹得散」(médecin)医生，去「欧比大勒」(hôpital)的大医院。紧急情况别慌张，直接挂号「玉喝让斯」(urgence)进急诊室。提前预约留时间，「航嘚乌」(rendez-vous)约好不白跑。到了医院有护士，「安飞喝灭」(infirmier)温柔帮你忙。记住这五词，法国看病不心慌！"
+  },
+  {
+    "id": 38,
+    "day": 8,
+    "orderInDay": 2,
+    "theme": "Upper Body Parts",
+    "themeZh": "上半身部位",
+    "emoji": "💪",
+    "wordIds": [
+      191,
+      192,
+      193,
+      228,
+      196
+    ],
+    "story": "「太特」(tête)头上有点疼，「不哈」(bras)手臂抬不起来了。「曼」(main)手掌心不舒服，「杜啊」(doigt)手指头也刺痛。回头一看「都欧」(dos)后背酸，上半身来个个叫苦。法语记住这五件宝，法国医院指哪疼哪都不怕！"
+  },
+  {
+    "id": 39,
+    "day": 8,
+    "orderInDay": 3,
+    "theme": "Lower Body & Core",
+    "themeZh": "下半身与躯干",
+    "emoji": "🦵",
+    "wordIds": [
+      194,
+      195,
+      197,
+      229,
+      198
+    ],
+    "story": "「让不」(jambe)大腿酸又涨，「撇」(pied)小脚也不爽。肚子咕噜叫「旺特喝」(ventre)难受，「热怒」(genou)膝盖有点咔咔响。还有「哥喝」(cœur)心脏在扑扑，下半身问题也要讲。看病时拿手指指对位，医生一听就明白！"
+  },
+  {
+    "id": 40,
+    "day": 8,
+    "orderInDay": 4,
+    "theme": "Face & Sensory Organs",
+    "themeZh": "面部与感官",
+    "emoji": "👁️",
+    "wordIds": [
+      199,
+      200,
+      201,
+      202,
+      203
+    ],
+    "story": "「耶额」(yeux)眼睛水汪汪，「奥喝耶」(oreille)耳朵听得广。「内」(nez)鼻子闻花香，「不许」(bouche)嘴巴笑开怀。最后看看「当」(dents)牙齿白，五官齐整整好状态。法语面部词记心间，牙医五官科都通关！"
+  },
+  {
+    "id": 41,
+    "day": 8,
+    "orderInDay": 5,
+    "theme": "Symptoms & Pain",
+    "themeZh": "病症与疼痛",
+    "emoji": "🤒",
+    "wordIds": [
+      183,
+      204,
+      205,
+      206,
+      208
+    ],
+    "story": "「马辣的」(malade)生病不舒服，「杜勒喝」(douleur)疼痛真难受。一量体温「菲耶勿喝」(fièvre)在发烧，「杜塞」(tousser)咳嗽停不了。咳嗽用力震「桑」(sang)血丝，症状连串揪人心。学会这五个症状词，法国看病说清不慌张！"
+  },
+  {
+    "id": 42,
+    "day": 9,
+    "orderInDay": 1,
+    "theme": "Pharmacy & Medicine",
+    "themeZh": "药房与药物",
+    "emoji": "💊",
+    "wordIds": [
+      187,
+      188,
+      212,
+      213,
+      214
+    ],
+    "story": "去药店先拿「妹滴嘎忙」(médicament)药，拿之前要有「奥喝到囊斯」(ordonnance)处方笺。别忘了带医保「阿续航斯」(assurance)卡在手，买「逼率了」(pilule)药片嘀嗒嗒。还有「西候」(sirop)糖浆甜甜喝，法国药房五词通！"
+  },
+  {
+    "id": 43,
+    "day": 9,
+    "orderInDay": 2,
+    "theme": "Injuries & Body Conditions",
+    "themeZh": "伤情与身体问题",
+    "emoji": "🩹",
+    "wordIds": [
+      207,
+      230,
+      218,
+      226,
+      227
+    ],
+    "story": "「不累续喝」(blessure)伤口疼又红，「过喝日」(gorge)喉咙也发干。突然喷嚏打个不停，「阿莱喝日」(allergie)过敏在作祟。看看「波」(peau)皮肤起了疹，「舍沃」(cheveu)头发也掉几根。身体病症五词学完，法国看病不再猜！"
+  },
+  {
+    "id": 44,
+    "day": 9,
+    "orderInDay": 3,
+    "theme": "Recovery & Rest",
+    "themeZh": "康复与休息",
+    "emoji": "🛌",
+    "wordIds": [
+      184,
+      215,
+      216,
+      186,
+      185
+    ],
+    "story": "祝你「桑嘚」(santé)身体健康好，「给嘿喝」(guérir)康复来得早。「瑟喝波贼」(se reposer)多休息少操劳，「刀喝米喝」(dormir)睡个美美觉。醒来不再「发滴给」(fatigué)疲累感，五词康复妙方抱！"
+  },
+  {
+    "id": 45,
+    "day": 9,
+    "orderInDay": 4,
+    "theme": "Exercise & Physical Condition",
+    "themeZh": "运动与体能",
+    "emoji": "🏋️",
+    "wordIds": [
+      220,
+      221,
+      222,
+      223,
+      224
+    ],
+    "story": "多「斯抱喝」(sport)运动身体棒，「哭嘿喝」(courir)跑步去广场。饭后「马喝谁」(marcher)散散步，越动越「佛喝」(fort)强壮不用愁。切莫整天躺「费不了」(faible)变虚弱，动起来身体才健康。五词练身好口诀，法国健身也不怕！"
+  },
+  {
+    "id": 46,
+    "day": 9,
+    "orderInDay": 5,
+    "theme": "Lifestyle & Wellbeing",
+    "themeZh": "生活方式与全身健康",
+    "emoji": "🧘",
+    "wordIds": [
+      217,
+      219,
+      225,
+      209,
+      190
+    ],
+    "story": "「斯特害斯」(stress)压力放一放，「黑白日夜」(régime)饮食要得当。深呼吸调「害斯逼哈凶」(respiration)气息顺，不舒服就上「昂不去昂斯」(ambulance)救护车忙。定期检查别忘记，「当蒂斯特」(dentiste)牙医也要常去访。五词健康生活圈，法国养生全攻略！"
+  },
+  {
+    "id": 17,
+    "day": 4,
+    "orderInDay": 1,
+    "theme": "Public Transport",
+    "themeZh": "公共交通",
+    "emoji": "🚇",
+    "wordIds": [
+      81,
+      82,
+      83,
+      84,
+      87
+    ],
+    "story": "巴黎出行坐 Métro🚇没喝欧，\n地面公交搭 Bus🚌布鱼丝，\n城际穿梭坐 Train🚄团，\n远途旅行乘 Avion✈️阿维用，\n路边招手叫 Taxi🚕塔克C！\n\n💡口诀：没喝欧地铁，布鱼丝公交，团是火车，阿维用飞机，塔克C打的！"
+  },
+  {
+    "id": 18,
+    "day": 4,
+    "orderInDay": 2,
+    "theme": "Private Vehicles",
+    "themeZh": "私家车出行",
+    "emoji": "🚗",
+    "wordIds": [
+      85,
+      86,
+      110,
+      109,
+      111
+    ],
+    "story": "开车出门开 Voiture🚗乌哇就喝，\n绿色出行骑 Vélo🚲维漏，\n掌握方向 Conduire🛞供对喝，\n没油快去加 Essence⛽诶桑丝，\n上路要有 Permis📋败喝蜜！\n\n💡口诀：乌哇就喝汽车，维漏自行车，供对喝驾驶，诶桑丝加油，败喝蜜驾照！"
+  },
+  {
+    "id": 19,
+    "day": 4,
+    "orderInDay": 3,
+    "theme": "Stations & Tickets",
+    "themeZh": "车站与购票",
+    "emoji": "🚉",
+    "wordIds": [
+      88,
+      89,
+      90,
+      107,
+      108
+    ],
+    "story": "赶火车去 Gare🚉嘎喝，\n坐飞机到 Aéroport🛫阿诶喝报喝，\n排队窗口买 Billet🎫比夜，\n车上找座问 Place💺普辣丝，\n可惜客满答 Complet😔供普赖。\n\n💡口诀：嘎喝火车站，阿诶喝报喝飞机场，比夜来买票，普辣丝找座位，供普赖全满座！"
+  },
+  {
+    "id": 20,
+    "day": 4,
+    "orderInDay": 4,
+    "theme": "Boarding & Exits",
+    "themeZh": "上下与出入",
+    "emoji": "🚪",
+    "wordIds": [
+      126,
+      125,
+      124,
+      123,
+      121
+    ],
+    "story": "赶车快快 Monter🚌蒙嘚，\n到站慢慢 Descendre🚶dei桑的喝，\n跟着指示进 Entrée🚪昂推，\n顺着箭头出 Sortie🏃索喝替，\n换乘要找 Correspondance🔄够害斯蹦荡丝。\n\n💡口诀：蒙嘚快上车，dei桑的喝忙下车，昂推进入口，索喝替找出口，够害斯蹦荡丝换乘处！"
+  },
+  {
+    "id": 21,
+    "day": 4,
+    "orderInDay": 5,
+    "theme": "Asking Directions",
+    "themeZh": "问路指路",
+    "emoji": "🧭",
+    "wordIds": [
+      95,
+      96,
+      99,
+      100,
+      101
+    ],
+    "story": "走在陌生 Rue🧭喝鱼，\n大路就叫 Route🛣️胡特，\n往左边拐 Gauche👈够什，\n往右边走 Droite👉的胡哇特，\n一路向前 Tout droit⬆️督的胡哇！\n\n💡口诀：喝鱼找街道，胡特上大路，够什往左转，的胡哇特向右行，督的胡哇直直走！"
+  },
+  {
+    "id": 22,
+    "day": 5,
+    "orderInDay": 1,
+    "theme": "Navigation & Signals",
+    "themeZh": "导航与信号",
+    "emoji": "🗺️",
+    "wordIds": [
+      102,
+      113,
+      120,
+      122,
+      115
+    ],
+    "story": "路口要 Tourner🗺️杜喝内，\n过街得 Traverser🚶他喝外喝sei，\n分不清看 Carte📜嘎喝特，\n认不明问 Direction🧭地害客凶，\n过马路走 Passage🚸巴萨日！\n\n💡口诀：杜喝内请转弯，他喝外喝sei过马路，嘎喝特地来指路，地害客凶问方向，巴萨日过街走横道！"
+  },
+  {
+    "id": 23,
+    "day": 5,
+    "orderInDay": 2,
+    "theme": "Movement & Travel Verbs",
+    "themeZh": "出行动词",
+    "emoji": "🏃",
+    "wordIds": [
+      91,
+      92,
+      93,
+      94,
+      112
+    ],
+    "story": "想到处走用 Aller🏃阿雷，\n有朋自远方来 Venir🤝窝逆喝，\n行程开始了 Partir🚀巴喝地喝，\n平安到达了 Arriver🎯阿喝一维，\n散步悠闲去 Marche🚶马喝什。\n\n💡口诀：阿雷去，窝逆喝来，巴喝地喝要出发，阿喝一维到达啦，马喝什悠悠散个步！"
+  },
+  {
+    "id": 24,
+    "day": 5,
+    "orderInDay": 3,
+    "theme": "Traffic & Pace",
+    "themeZh": "交通节奏",
+    "emoji": "🚦",
+    "wordIds": [
+      114,
+      116,
+      117,
+      105,
+      103
+    ],
+    "story": "路口停下看 Feu🚦佛额，\n车速飞快真 Rapide⚡哈必的，\n慢慢悠悠好 Lent🐢浪，\n赶时间急得 Pressé🏃破黑sei，\n公交到站在 Arrêt🛑阿害。\n\n💡口诀：佛额红绿灯，哈必的快得像风，浪字记慢了，破黑sei急匆匆，阿害到站停一停！"
+  },
+  {
+    "id": 25,
+    "day": 5,
+    "orderInDay": 4,
+    "theme": "Time & Punctuality",
+    "themeZh": "准点与延误",
+    "emoji": "⏰",
+    "wordIds": [
+      106,
+      118,
+      119,
+      104,
+      97
+    ],
+    "story": "列车不来有 Retard⏰喝大喝，\n约会迟到 En retard😰昂喝大喝，\n幸运列车 À l'heure✅阿勒喝，\n站台上耐心 Attendre🕐阿荡的喝，\n站好远也别急 Loin🏔️路万。\n\n💡口诀：喝大喝晚点了，昂喝大喝我迟到，阿勒喝准时到，阿荡的喝耐心等，路万虽然远不怕！"
+  },
+  {
+    "id": 26,
+    "day": 5,
+    "orderInDay": 5,
+    "theme": "Travel & Luggage",
+    "themeZh": "旅行与行李",
+    "emoji": "🧳",
+    "wordIds": [
+      127,
+      128,
+      129,
+      130,
+      98
+    ],
+    "story": "收拾行囊去 Voyage🧳乌哇压日，\n享受美好 Vacances🌴瓦抗丝，\n拖着一个 Valise💼瓦力兹，\n通关掏出 Passeport🛂巴斯报喝，\n酒店就在 Proche🏨破喝奥什！\n\n💡口诀：乌哇压日去旅行，瓦抗丝度假乐，瓦力兹箱里装，巴斯报喝护照带，破喝奥什近在旁！"
+  },
+  {
+    "id": 67,
+    "day": 14,
+    "orderInDay": 1,
+    "theme": "Weather Conditions",
+    "themeZh": "天气状况",
+    "emoji": "🌤️",
+    "wordIds": [
+      331,
+      372,
+      373,
+      374,
+      377
+    ],
+    "story": "Temps🌤️当天是好是坏问一问，\nMétéo📱梅得欧预报打开看一看，\nEnsoleillé☀️昂索赖耶大晴天心欢畅，\nNuageux☁️女阿热乌云遮日阴了天，\nVenteux💨汪得大风吹得头发乱。\n\n💡口诀：当是天来梅得欧看预报，昂索赖耶晴好女阿热云罩，汪得风起出门多加衣，天气变化随时要知晓！"
+  },
+  {
+    "id": 68,
+    "day": 14,
+    "orderInDay": 2,
+    "theme": "Temperature & Feelings",
+    "themeZh": "温度冷热",
+    "emoji": "🌡️",
+    "wordIds": [
+      337,
+      338,
+      354,
+      355,
+      376
+    ],
+    "story": "Chaud🔥瘦天热得直流汗，\nFroid❄️夫喝哇冷得打哆嗦，\nTempérature🌡️当杯哈德绿喝气温升又降，\nDegré📊的哥黑几度你看一看，\nSec🏜️塞克干燥要补水不能忘。\n\n💡口诀：瘦是热来夫喝哇是冷，当杯哈德绿喝量体温，的哥黑上面看度数，塞克干了记得多喝水！"
+  },
+  {
+    "id": 69,
+    "day": 14,
+    "orderInDay": 3,
+    "theme": "Rain & Storm",
+    "themeZh": "雨雪风暴",
+    "emoji": "🌧️",
+    "wordIds": [
+      333,
+      356,
+      357,
+      378,
+      380
+    ],
+    "story": "Pluie🌧️普绿一落下来滴滴答，\nOrage⛈️奥哈日暴风雷电轰隆隆，\nParapluie☂️巴哈普绿一雨伞快撑开，\nPleuvoir💦普乐乌哇喝下雨哗啦啦，\nNuage de pluie☁️女阿日的普绿一乌云飘来雨快到。\n\n💡口诀：普绿一雨滴奥哈日风暴，巴哈普绿一打伞不怕浇，普乐乌哇喝下大雨，女阿日的普绿一乌云来就快跑！"
+  },
+  {
+    "id": 70,
+    "day": 14,
+    "orderInDay": 4,
+    "theme": "Snow & Ice",
+    "themeZh": "冰雪寒冬",
+    "emoji": "❄️",
+    "wordIds": [
+      336,
+      353,
+      369,
+      370,
+      338
+    ],
+    "story": "Neige❄️奈日雪花一片片飘，\nHiver🧣一外喝冬天大地白茫茫，\nGeler🧊热了类水结冰滑又亮，\nFondre💧丰的喝春暖冰融化成江，\nFroid🥶夫喝哇天寒地冻缩被窝。\n\n💡口诀：奈日雪花飞一外喝冬天到，热了类结冰路滑小心走，丰的喝春天来了冰雪消，夫喝哇冷了快把暖气烤！"
+  },
+  {
+    "id": 71,
+    "day": 14,
+    "orderInDay": 5,
+    "theme": "Seasons of the Year",
+    "themeZh": "四季流转",
+    "emoji": "🍂",
+    "wordIds": [
+      350,
+      351,
+      352,
+      371,
+      332
+    ],
+    "story": "Printemps🌸普汗当春来百花开，\nÉté🏖️诶得夏热去海边嗨，\nAutomne🍁欧到呢秋叶飘下来，\nSaison🔄塞纵四季轮回转得快，\nSoleil☀️索赖耶太阳一年到头照。\n\n💡口诀：普汗当春天诶得夏，欧到呢秋凉塞纵轮着过，索赖耶太阳照四季，一年好景全不错过！"
+  },
+  {
+    "id": 72,
+    "day": 15,
+    "orderInDay": 1,
+    "theme": "Sky & Celestial",
+    "themeZh": "天空星辰",
+    "emoji": "⭐",
+    "wordIds": [
+      339,
+      358,
+      359,
+      335,
+      379
+    ],
+    "story": "Ciel🌌C耶了天蓝望不到边，\nLune🌙绿呢月亮夜里挂天边，\nÉtoile⭐诶图阿了星星眨眼闪呀闪，\nNuage☁️女阿日白云朵朵飘上天，\nArc-en-ciel🌈阿喝康C耶了彩虹桥架两山间。\n\n💡口诀：C耶了天上看绿呢月，诶图阿了星星数不完，女阿日云朵飘过去，阿喝康C耶了彩虹雨后现！"
+  },
+  {
+    "id": 73,
+    "day": 15,
+    "orderInDay": 2,
+    "theme": "Nature Elements",
+    "themeZh": "自然元素",
+    "emoji": "🏔️",
+    "wordIds": [
+      340,
+      341,
+      342,
+      362,
+      363
+    ],
+    "story": "Arbre🌳阿喝不喝大树扎根深，\nFleur🌺夫勒喝花儿吐香惹人闻，\nHerbe🌿埃喝不绿草茵茵铺满地，\nTerre🌍待喝土地孕育万物生，\nPierre🪨P耶喝石头坚硬守山门。\n\n💡口诀：阿喝不喝树下歇，夫勒喝花开招蜂蝶，埃喝不草绿待喝土地肥，P耶喝石头千万年都不碎！"
+  },
+  {
+    "id": 74,
+    "day": 15,
+    "orderInDay": 3,
+    "theme": "Water & Landscapes",
+    "themeZh": "山水风景",
+    "emoji": "🏞️",
+    "wordIds": [
+      343,
+      344,
+      345,
+      346,
+      364
+    ],
+    "story": "Mer🌊迈喝大海波涛翻白浪，\nPlage🏖️普拉日沙滩日光暖洋洋，\nRivière🏞️黑V耶喝河流蜿蜒向前淌，\nMontagne⛰️蒙大涅高山登顶望四方，\nPaysage🖼️杯一咋日风景如画不能忘。\n\n💡口诀：迈喝海蓝普拉日沙软，黑V耶喝河水清又长，蒙大涅山峰高又险，杯一咋日美景永远记心上！"
+  },
+  {
+    "id": 75,
+    "day": 15,
+    "orderInDay": 4,
+    "theme": "Wildlife & Forests",
+    "themeZh": "森林动物",
+    "emoji": "🦉",
+    "wordIds": [
+      347,
+      348,
+      349,
+      360,
+      361
+    ],
+    "story": "Forêt🌲佛害森林深处好幽静，\nAnimal🐾阿尼马了动物悄悄林中行，\nOiseau🐦哇走鸟儿枝头唱歌声，\nAir🍃爱喝清新空气深呼吸，\nFeu🔥佛篝火噼啪暖人心。\n\n💡口诀：佛害密林走一走，阿尼马了动物藏树后，哇走小鸟歌不停，爱喝好空气深呼吸，佛升篝火围着坐一宿！"
+  },
+  {
+    "id": 76,
+    "day": 15,
+    "orderInDay": 5,
+    "theme": "Nature & Weather Activities",
+    "themeZh": "户外活动",
+    "emoji": "🧺",
+    "wordIds": [
+      365,
+      366,
+      367,
+      368,
+      375
+    ],
+    "story": "Pique-nique🧺皮克尼克野餐铺在草地上，\nPromenade🚶迫好么那的散步穿过小村庄，\nBaigner🏊拜聂游泳下水清清凉，\nBronzer🌞不轰Z诶晒太阳变小麦黄，\nHumide💧俞咪的夏天潮湿汗流淌。\n\n💡口诀：皮克尼克吃野餐，迫好么那的散步到黄昏，拜聂游个泳来不轰Z诶晒成古铜色，俞咪的湿气重但心情少有的快乐！"
+  },
+  {
+    "id": 77,
+    "day": 16,
+    "orderInDay": 1,
+    "theme": "Warm Colors",
+    "themeZh": "暖色系",
+    "emoji": "🔥",
+    "wordIds": [
+      382,
+      390,
+      385,
+      389,
+      392
+    ],
+    "story": "胡日 rouge🔥 鲜红似火第一色，\n哦夯日 orange🍊 橘色甜得像蜜糖，\n若呢 jaune☀️ 明黄灿烂如暖阳，\n吼字 rose🌸 粉色浪漫少女心，\n马哄 marron🍂 棕色沉稳像大地。\n\n💡口诀：胡日红，哦夯橘，若呢黄，吼字粉，马哄棕——暖色五兄弟，热情又温柔！"
+  },
+  {
+    "id": 78,
+    "day": 16,
+    "orderInDay": 2,
+    "theme": "Cool Colors",
+    "themeZh": "冷色系",
+    "emoji": "❄️",
+    "wordIds": [
+      383,
+      384,
+      391,
+      386,
+      387
+    ],
+    "story": "不乐 bleu💙 蔚蓝如海又似天，\n外喝 vert💚 翠绿森林深呼吸，\n维哟来 violet💜 紫色高贵好神秘，\n怒袜喝 noir🖤 黑色酷帅多经典，\n不浪 blanc🤍 纯白无瑕似雪花。\n\n💡口诀：不乐蓝，外喝绿，维哟来紫，怒袜喝黑，不浪白——冷色五仙子，清冷又高级！"
+  },
+  {
+    "id": 79,
+    "day": 16,
+    "orderInDay": 3,
+    "theme": "Brightness Levels",
+    "themeZh": "明暗深浅",
+    "emoji": "💡",
+    "wordIds": [
+      393,
+      394,
+      395,
+      396,
+      388
+    ],
+    "story": "丰sei foncé🌑 深厚浓重颜色重，\n克来喝 clair☀️ 浅淡明亮光线足，\n不黑样 brillant✨ 闪闪发光亮晶晶，\n马特 mat🌫️ 哑光低调不反光，\n哥黑 gris🌫️ 灰色中庸在中间。\n\n💡口诀：丰sei深，克来喝浅，不黑样闪，马特哑，哥黑灰——明暗五层级，调色有学问！"
+  },
+  {
+    "id": 80,
+    "day": 16,
+    "orderInDay": 4,
+    "theme": "Basic Shapes",
+    "themeZh": "基本形状",
+    "emoji": "⭕",
+    "wordIds": [
+      397,
+      398,
+      400,
+      401,
+      399
+    ],
+    "story": "塞喝课了 cercle⭕ 圆圆满满画个圈，\n嘎黑 carré🟫 四方端正正方形，\n特黑样哥了 triangle🔺 三角尖尖三个角，\n害克趟哥了 rectangle📏 长长扁扁长方形，\n轰 rond🟡 圆溜溜的像太阳。\n\n💡口诀：塞喝课了圆，嘎黑方，特黑样哥了三，害克趟哥了长，轰溜溜——五大形状全记住！"
+  },
+  {
+    "id": 81,
+    "day": 16,
+    "orderInDay": 5,
+    "theme": "Lines, Dots & Structure",
+    "themeZh": "线条结构",
+    "emoji": "📐",
+    "wordIds": [
+      402,
+      403,
+      404,
+      381,
+      416
+    ],
+    "story": "戾涅 ligne➖ 一条直线画到头，\n扑完 point🟢 小小圆点做记号，\n佛喝母 forme🔷 千变万化形状多，\n哭了喝 couleur🎨 五彩缤纷是颜色，\n太耶 taille📏 尺寸大小比一比。\n\n💡口诀：戾涅线，扑完点，佛喝母形，哭了喝色，太耶尺寸——从线到面到色彩，画画基础全在此！"
+  },
+  {
+    "id": 82,
+    "day": 17,
+    "orderInDay": 1,
+    "theme": "Dimensions & Sizes",
+    "themeZh": "长短宽窄高低",
+    "emoji": "📏",
+    "wordIds": [
+      405,
+      406,
+      407,
+      408,
+      411,
+      412
+    ],
+    "story": "龙 long📏 长长一条望不到头，\n哭喝 court📐 短短一截眨眼就到，\n拉喝日 large🏞️ 宽宽阔阔心也敞亮，\n诶特袜 étroit🚪 窄狭窄狭侧身过，\n哦 haut🏔️ 高高在上登顶望，\n罢 bas🏝️ 低低在下接地气。\n\n💡口诀：龙长哭喝短，拉喝日宽诶特袜窄，哦高罢低——六把尺子量天下，尺寸大小心中藏！"
+  },
+  {
+    "id": 83,
+    "day": 17,
+    "orderInDay": 2,
+    "theme": "Texture & Weight",
+    "themeZh": "厚薄轻重深浅",
+    "emoji": "⚖️",
+    "wordIds": [
+      409,
+      410,
+      413,
+      414,
+      415
+    ],
+    "story": "诶拜 épais📚 厚厚实实分量足，\n曼斯 mince📄 薄薄轻轻像纸片，\n路喝 lourd🏋️ 沉甸甸的搬不动，\n累日 léger🪶 轻飘飘的像羽毛，\n扑后丰 profond🌊 深深不见底去探秘。\n\n💡口诀：诶拜厚、曼斯薄，路喝重、累日轻，扑后丰深——五感触摸世界，质感全靠它们辨！"
+  },
+  {
+    "id": 57,
+    "day": 12,
+    "orderInDay": 1,
+    "theme": "Immediate Family",
+    "themeZh": "核心家庭",
+    "emoji": "👨‍👩‍👧‍👦",
+    "wordIds": [
+      281,
+      282,
+      283,
+      284,
+      285
+    ],
+    "story": "famille（发蜜耶）就是温馨的家，père（拜喝）爸爸工作辛苦啦，mère（迈喝）妈妈厨艺顶呱呱，fils（菲斯）儿子弹琴有才华，fille（菲耶）女儿童话爱看呀。一家五口乐融融，法语家庭记心上！"
+  },
+  {
+    "id": 58,
+    "day": 12,
+    "orderInDay": 2,
+    "theme": "Siblings & Children",
+    "themeZh": "兄弟姐妹与孩子",
+    "emoji": "🧒",
+    "wordIds": [
+      286,
+      287,
+      288,
+      289,
+      290
+    ],
+    "story": "frère（夫喝爱喝）哥哥踢球跑得快，sœur（色喝）妹妹学医有能耐，enfant（昂放昂）乖娃娃人人爱，bébé（贝贝）小宝宝睡得乖，ami（啊蜜）好朋友从小在一块。兄弟姊妹好朋友，这群词儿不难背！"
+  },
+  {
+    "id": 59,
+    "day": 12,
+    "orderInDay": 3,
+    "theme": "Neighbors & People",
+    "themeZh": "邻里与人群",
+    "emoji": "🏘️",
+    "wordIds": [
+      291,
+      292,
+      293,
+      294,
+      295
+    ],
+    "story": "voisin（夫哇赞）邻居楼上有点吵，homme（哦姆）男士西装穿得好，femme（发姆）妻子度假乐陶陶，garçon（嘎喝松）男孩公园踢球跑，personne（拜喝索呢）教室里面静悄悄。从邻居到路人啊，生活里的人儿真不少！"
+  },
+  {
+    "id": 60,
+    "day": 12,
+    "orderInDay": 4,
+    "theme": "Identity & Basic Info",
+    "themeZh": "身份信息",
+    "emoji": "🪪",
+    "wordIds": [
+      296,
+      297,
+      298,
+      299,
+      300
+    ],
+    "story": "gens（日昂）村民们热情又安康，nom（弄）问贵姓礼貌不能忘，prénom（普喝诶弄）名字拼写记心上，âge（啊日）十八岁把会考闯，anniversaire（啊妮外喝赛喝）生日蜡烛闪闪亮。身份信息全备齐，走到哪里都不慌！"
+  },
+  {
+    "id": 61,
+    "day": 12,
+    "orderInDay": 5,
+    "theme": "Marriage & Parents",
+    "themeZh": "婚姻与父母",
+    "emoji": "💒",
+    "wordIds": [
+      301,
+      302,
+      303,
+      304,
+      305
+    ],
+    "story": "mari（马喝衣）丈夫七点下班归，épouse（诶不子）夫人正式场合陪，parents（巴喝昂）爸妈南方日子美，grand-père（歌喝昂拜喝）爷爷讲那战争回，grand-mère（歌喝昂迈喝）奶奶可丽饼儿香味飞。婚姻父母祖辈聚，五代同堂还有谁？"
+  },
+  {
+    "id": 62,
+    "day": 13,
+    "orderInDay": 1,
+    "theme": "Extended Family",
+    "themeZh": "家族亲戚",
+    "emoji": "👨‍👩‍👦‍👦",
+    "wordIds": [
+      306,
+      307,
+      308,
+      309,
+      310
+    ],
+    "story": "oncle（翁克了）叔叔住在加拿大，tante（当特）姑姑蛋糕香满家，cousin（库赞）表弟岁数一样大，neveu（呢夫鄂）侄子骑车学跨跨，nièce（涅斯）侄女爱那独角马。叔叔姑姑表侄聚，法国家族真庞大！"
+  },
+  {
+    "id": 63,
+    "day": 13,
+    "orderInDay": 2,
+    "theme": "Describing People (Neutral/Positive)",
+    "themeZh": "形容人物（中性/正面）",
+    "emoji": "✨",
+    "wordIds": [
+      311,
+      312,
+      313,
+      314,
+      315
+    ],
+    "story": "jeune（热呢）年轻人开车还太早，vieux（维也）老绅士遛狗起大早，beau（波）风景好海上看得着，moche（摸湿）破旧楼该翻修才好，gentil（日昂地）邻居帮忙心肠好。年轻年老美丑善，形容词汇齐报到！"
+  },
+  {
+    "id": 64,
+    "day": 13,
+    "orderInDay": 3,
+    "theme": "Negative Traits & Emotions",
+    "themeZh": "负面性格与情绪",
+    "emoji": "😠",
+    "wordIds": [
+      316,
+      317,
+      318,
+      319,
+      320
+    ],
+    "story": "méchant（妹湿昂）大灰狼想吃小猪闹，heureux（呃喝鄂）遇见你说真幸福笑，triste（特喝衣斯特）猫咪跑了她心碎掉，content（工当昂）考试过关他欢喜跳，fâché（发湿诶）爸爸为花瓶摔碎懊恼。好坏悲喜都尝遍，法语感情词真妙！"
+  },
+  {
+    "id": 65,
+    "day": 13,
+    "orderInDay": 4,
+    "theme": "Communication Verbs",
+    "themeZh": "交流动词",
+    "emoji": "💬",
+    "wordIds": [
+      321,
+      322,
+      323,
+      324,
+      325
+    ],
+    "story": "aimer（爱妹）黑巧克力我最想，détester（得带斯得）洗碗最让人发狂，parler（巴喝嘞）法语刚开始学装装，écouter（诶库得）古典音乐工作时不慌，regarder（喝呃嘎喝得）星期六晚上电影放。爱恨说听看五样，交流动词全记上！"
+  },
+  {
+    "id": 66,
+    "day": 13,
+    "orderInDay": 5,
+    "theme": "Mental Verbs & Knowledge",
+    "themeZh": "思考与认知动词",
+    "emoji": "🧠",
+    "wordIds": [
+      326,
+      327,
+      328,
+      329,
+      330
+    ],
+    "story": "penser（帮贼）我觉得主意妙难挡，savoir（萨夫哇喝）我会三种语言强，connaître（果奈特喝）这个街区我熟得咣，comprendre（工普喝昂的喝）请您再说一遍别慌张，apprendre（阿普普喝昂的喝）六月学法人不枉。思考知道认识理解学习，大脑动词收进囊！"
+  },
+  {
+    "id": 84,
+    "day": 18,
+    "orderInDay": 1,
+    "theme": "Everyday Basics",
+    "themeZh": "日常基本款",
+    "emoji": "👕",
+    "wordIds": [
+      417,
+      418,
+      419,
+      425,
+      426
+    ],
+    "story": "衣柜打开挑 vêtement👕外特忙 衣服整整齐齐，\n穿上 pantalon👕帮搭弄 裤子版型挺括有型，\n搭配 chemise👕湿蜜兹 衬衫干净又利落，\n天热换 t-shirt👕弟硕特 T恤轻松随意穿搭，\n再来条 short👕少喝特 短裤凉爽度夏日。\n\n💡口诀：外特忙衣服挑花眼，帮搭弄裤子显腿长，湿蜜兹衬衫有精神，弟硕特T恤自在穿，少喝特短裤过夏天！"
+  },
+  {
+    "id": 85,
+    "day": 18,
+    "orderInDay": 2,
+    "theme": "Dresses & Suits",
+    "themeZh": "裙装与正装",
+    "emoji": "👗",
+    "wordIds": [
+      420,
+      421,
+      458,
+      459,
+      443
+    ],
+    "story": "一条 robe👗厚布 连衣裙优雅又飘逸，\n换个 jupe👗局普 短裙俏皮显活力，\n男士套装 costume👔高斯对木 西装笔挺去赴会，\n再系 cravate👔可哈瓦特 领带精神又帅气，\n整个人 élégant✨诶雷杠 优雅风度令人迷。\n\n💡口诀：厚布裙子飘起来，局普短裙转圈圈，高斯对木西装正，可哈瓦特领带系，诶雷杠优雅就是你！"
+  },
+  {
+    "id": 86,
+    "day": 18,
+    "orderInDay": 3,
+    "theme": "Outerwear",
+    "themeZh": "外套大衣",
+    "emoji": "🧥",
+    "wordIds": [
+      422,
+      423,
+      424,
+      432,
+      433
+    ],
+    "story": "天冷穿上 veste🧥外斯特 夹克外套挡寒风，\n再披 manteau🧥忙豆 大衣保暖又大气，\n软软 pull🧥辟了 毛衣贴身暖烘烘，\n围上 écharpe🧣诶沙喝普 围巾呵护脖颈暖，\n戴上 gant🧣杠 手套手指不怕冻。\n\n💡口诀：外斯特夹克挡风沙，忙豆大衣顶呱呱，辟了毛衣身上裹，诶沙喝普围巾脖上挂，杠手套戴上暖到家！"
+  },
+  {
+    "id": 87,
+    "day": 18,
+    "orderInDay": 4,
+    "theme": "Footwear",
+    "themeZh": "鞋袜靴履",
+    "emoji": "👟",
+    "wordIds": [
+      427,
+      428,
+      429,
+      445,
+      446
+    ],
+    "story": "脚蹬 chaussure👟收续喝 鞋子款式各不同，\n冬天换上 botte👢抱特 靴子帅气又保暖，\n套上 chaussette👢收赛特 袜子穿好再出门，\n千万别太 serré👟塞黑 紧绷难受走不动，\n宽松 large🩴拉喝日 松快自在走得远。\n\n💡口诀：收续喝鞋子选合适，抱特靴子踩雪地，收赛特袜子套脚上，塞黑太紧真受罪，拉喝日宽松最舒服！"
+  },
+  {
+    "id": 88,
+    "day": 18,
+    "orderInDay": 5,
+    "theme": "Head & Hands",
+    "themeZh": "头手配饰",
+    "emoji": "🧢",
+    "wordIds": [
+      430,
+      431,
+      434,
+      435,
+      438
+    ],
+    "story": "戴上 chapeau🧢沙波 帽子遮阳又扮潮，\n还有 casquette🧢嘎斯盖特 棒球帽青春街头风，\n腰间 ceinture🧢散对喝 皮带系好不掉裤，\n鼻梁 lunettes👓绿耐特 眼镜清晰看世界，\n背起 sac à main👜萨克阿曼 包包出门样样齐。\n\n💡口诀：沙波帽子头上戴，嘎斯盖特潮帽帅，散对喝皮带腰间系，绿耐特眼镜不迷路，萨克阿曼包包随身带！"
+  },
+  {
+    "id": 89,
+    "day": 19,
+    "orderInDay": 1,
+    "theme": "Jewelry & Beauty",
+    "themeZh": "珠宝与美妆",
+    "emoji": "💍",
+    "wordIds": [
+      436,
+      437,
+      460,
+      462,
+      461
+    ],
+    "story": "闪亮 bijou💍闭竹 首饰精美又珍贵，\n腕上 montre⌚梦特喝 手表计时不离身，\n戴上 bague💍霸个 戒指闪闪耀指尖，\n挂上 collier💍高利耶 项链闪耀在锁骨，\n还有 boucle d'oreille💎不可拉多害耶 耳环摇曳映脸庞。\n\n💡口诀：闭竹首饰亮晶晶，梦特喝手表不迟停，霸个戒指指上戴，高利耶项链闪不停，不可拉多害耶耳环轻轻听！"
+  },
+  {
+    "id": 90,
+    "day": 19,
+    "orderInDay": 2,
+    "theme": "Makeup & Fragrance",
+    "themeZh": "化妆香氛",
+    "emoji": "💄",
+    "wordIds": [
+      463,
+      464,
+      442,
+      447,
+      448
+    ],
+    "story": "精致 maquillage💄麻给亚日 化妆品让容颜焕光彩，\n喷点 parfum🌸巴喝饭 香水芬芳人人爱，\n追寻 mode💄莫的 时尚潮流跟紧不掉队，\n买件 neuf🌸呢夫 崭新衣服好心情，\n旧衣 usé👗于贼 磨旧也别扔留着有回忆。\n\n💡口诀：麻给亚日化妆变美丽，巴喝饭香水好气息，莫的时尚最前沿，呢夫新衣穿出去，于贼旧衣情怀在心里！"
+  },
+  {
+    "id": 91,
+    "day": 19,
+    "orderInDay": 3,
+    "theme": "Fabrics & Materials",
+    "themeZh": "面料材质",
+    "emoji": "🧶",
+    "wordIds": [
+      449,
+      450,
+      451,
+      452,
+      444
+    ],
+    "story": "挑件 en coton🧶昂高痛 棉质亲肤又透气，\n换件 en laine🧶昂兰呢 羊毛温暖过寒冬，\n来个 en cuir👜昂贵喝 皮件耐用有质感，\n选条 en soie🧶昂斯哇 丝绸柔滑丝丝顺，\n归根到底 confortable🛋️共佛喝大布了 舒服才是硬道理。\n\n💡口诀：昂高痛棉布爽歪歪，昂兰呢羊毛暖洋洋，昂贵喝皮料高级感，昂斯哇丝绸滑溜溜，共佛喝大布了舒服最重要！"
+  },
+  {
+    "id": 92,
+    "day": 19,
+    "orderInDay": 4,
+    "theme": "Getting Dressed",
+    "themeZh": "穿衣动作",
+    "emoji": "👔",
+    "wordIds": [
+      439,
+      440,
+      441,
+      453,
+      454
+    ],
+    "story": "出门前 porer👔宝喝得 穿戴整齐精神好，\n先 mettre👔卖特喝 穿上衣服别磨蹭，\n冬天 enlever👔昂了外 脱下厚衣进屋里，\n扣好 bouton👔不通 纽扣一颗颗扣上，\n手插 poche👔宝石 口袋潇洒走出门。\n\n💡口诀：宝喝得穿戴精神爽，卖特喝穿上不要慌，昂了外脱掉进屋里，不通纽扣扣端正，宝石口袋手一揣！"
+  },
+  {
+    "id": 93,
+    "day": 19,
+    "orderInDay": 5,
+    "theme": "Care & Laundry",
+    "themeZh": "衣物护理",
+    "emoji": "👚",
+    "wordIds": [
+      455,
+      456,
+      457,
+      465,
+      466
+    ],
+    "story": "检查 fermeture👚费喝么对喝 拉链别让它卡住，\n夏天带上 maillot de bain🏊马哟的办 泳衣去海边浪，\n晚上穿 pyjama👚逼夹麻 睡衣舒舒服服好入梦，\n进门 essuyer🧹诶岁耶 把鞋底擦干净，\n出门前 repasser👚喝巴塞 把衣服熨得平平整整。\n\n💡口诀：费喝么对喝拉链拉顺滑，马哟的办泳衣海边耍，逼夹麻睡衣睡好觉，诶岁耶擦鞋不弄脏，喝巴塞熨衣精神佳！"
+  },
+  {
+    "id": 94,
+    "day": 20,
+    "orderInDay": 1,
+    "theme": "Downtown Landmarks",
+    "themeZh": "市中心地标",
+    "emoji": "🏙️",
+    "wordIds": [
+      467,
+      468,
+      469,
+      470,
+      471
+    ],
+    "story": "来到法国大 ville🏙️未了 城市真繁华，\n漫步古老 rue🚶喝雨 街道逛一逛，\n市中心大 place⛲普辣斯 广场美如画，\n找个安静 quartier🏘️嘎喝铁 街区住下来，\ncentre-ville🏬桑特喝-未了 市中心最热闹。\n\n💡口诀：未了城市大又美，喝雨街道慢慢走，普辣斯广场喷泉旁，嘎喝铁街区选住处，桑特喝未了市中心最好逛！"
+  },
+  {
+    "id": 95,
+    "day": 20,
+    "orderInDay": 2,
+    "theme": "Public Services",
+    "themeZh": "公共服务",
+    "emoji": "🏛️",
+    "wordIds": [
+      473,
+      474,
+      475,
+      476,
+      479
+    ],
+    "story": "办事先去 mairie🏛️卖黑 市政厅里跑，\n重要证件 préfecture📋扑黑费克句喝 省府办，\n遇上麻烦 commissariat🚔高米萨黑亚 警察局，\n紧急情况 pompiers🚒崩瞥 消防快来救，\n寄信包裹 poste📮抱死特 邮局最方便。\n\n💡口诀：卖黑市政厅办事快，扑黑费克句喝省府证件齐，高米萨黑亚警察局有困难，崩瞥消防紧急叫，抱死特邮局寄包裹！"
+  },
+  {
+    "id": 96,
+    "day": 20,
+    "orderInDay": 3,
+    "theme": "Health & Education",
+    "themeZh": "健康与教育",
+    "emoji": "🏥",
+    "wordIds": [
+      477,
+      478,
+      480,
+      481,
+      482
+    ],
+    "story": "身体不适去 hôpital🏥哦比大了 医院看看病，\n买药记得 pharmacie💊发喝马C 药店别走错，\n取钱存钱到 banque🏦棒克 银行办业务，\n孩子上学 école🎒诶够了 学校门口送，\n考上名校 université🎓雨你外喝C得 大学好前程。\n\n💡口诀：哦比大了医院看病去，发喝马C药店买药快，棒克银行存取款，诶够了学校读书忙，雨你外喝C得大学出人才！"
+  },
+  {
+    "id": 97,
+    "day": 20,
+    "orderInDay": 4,
+    "theme": "Cultural Venues",
+    "themeZh": "文化场馆",
+    "emoji": "🎭",
+    "wordIds": [
+      483,
+      484,
+      485,
+      486,
+      492
+    ],
+    "story": "安静自习 bibliothèque📚比布力哟太克 图书馆，\n艺术熏陶 musée🖼️目雨zei 博物馆里逛，\n周末放松 cinéma🎬C内马 电影院约起，\n高雅艺术 théâtre🎭得啊特喝 剧院看演出，\n郊外探访 château🏰沙都 城堡似童话。\n\n💡口诀：比布力哟太克图书馆翻书，目雨zei博物馆看名画，C内马电影院新片约，得啊特喝剧院高雅赏，沙都城堡童话梦！"
+  },
+  {
+    "id": 98,
+    "day": 20,
+    "orderInDay": 5,
+    "theme": "Parks & Monuments",
+    "themeZh": "公园与古迹",
+    "emoji": "🌳",
+    "wordIds": [
+      487,
+      488,
+      493,
+      494,
+      495
+    ],
+    "story": "休闲散步 parc🌳爸喝克 公园空气好，\njardin public🌸日啊喝蛋布力克 公共花园花盛开，\n登高望远 tour🗼肚喝 铁塔俯瞰全城景，\n历史遗迹 monument🏛️猫女忙 古迹留影忙，\n清凉水边 fontaine⛲风太呢 喷泉边坐坐。\n\n💡口诀：爸喝克公园跑跑步，日啊喝蛋布力克花园赏赏花，肚喝塔顶望全城，猫女忙古迹拍不停，风太呢喷泉清凉一夏！"
+  },
+  {
+    "id": 99,
+    "day": 21,
+    "orderInDay": 1,
+    "theme": "Sacred & Historic",
+    "themeZh": "宗教与历史",
+    "emoji": "⛪",
+    "wordIds": [
+      490,
+      491,
+      489,
+      472,
+      504
+    ],
+    "story": "古老 église⛪诶格力子 教堂钟声敲，\n雄伟 cathédrale⛪嘎得喝辣了 大教堂更壮观，\n河上 pont🌉蹦 大桥连接两岸通，\n住在 banlieue🏡帮立业 郊区清静远喧嚣，\n老式 immeuble🏢一莫不了 大楼历史见证了。\n\n💡口诀：诶格力子教堂静静坐，嘎得喝辣了大教堂真雄伟，蹦大桥跨河走，帮立业郊区生活慢，一莫不了老楼故事多！"
+  },
+  {
+    "id": 100,
+    "day": 21,
+    "orderInDay": 2,
+    "theme": "Getting Around",
+    "themeZh": "出行交通",
+    "emoji": "🚇",
+    "wordIds": [
+      496,
+      497,
+      498,
+      499,
+      500
+    ],
+    "story": "出门首选 métro🚇美喝哦 地铁站坐车，\n路边等候 arrêt de bus🚏啊害的布雨斯 公交站牌下，\n开车找位 stationnement🅿️斯大熊呢忙 停车场难寻，\n步行安全 trottoir🚶偷花喝 人行道靠边走，\n十字路口 carrefour🚦嘎喝负喝 通行看左右。\n\n💡口诀：美喝哦地铁最快捷，啊害的布雨斯公交站等车，斯大熊呢忙停车位难找，偷花喝人行道保安全，嘎喝负喝十字路口小心过！"
+  },
+  {
+    "id": 101,
+    "day": 21,
+    "orderInDay": 3,
+    "theme": "Traffic & Navigation",
+    "themeZh": "交通与导航",
+    "emoji": "🚦",
+    "wordIds": [
+      501,
+      502,
+      503,
+      510,
+      509
+    ],
+    "story": "红灯亮起 feu rouge🚦佛户日 车子要停下，\n看准方向 panneau🪧巴诺 指路牌引路行，\n展开手中 plan🗺️不浪 城市地图细端详，\n东张西望 chercher🔍晒喝谁 四处找啊找，\n终于成功 trouver✅突V 目的地找到！\n\n💡口诀：佛户日红灯必须停，巴诺指路牌看清楚，不浪地图展开查，晒喝谁东找西找不放弃，突V终于把你找到啦！"
+  },
+  {
+    "id": 102,
+    "day": 21,
+    "orderInDay": 4,
+    "theme": "Living & Moving",
+    "themeZh": "居住与搬迁",
+    "emoji": "🏠",
+    "wordIds": [
+      505,
+      506,
+      507,
+      508,
+      511
+    ],
+    "story": "你问我在哪 habiter🏠阿比得 居住在此城，\n即将打包 déménager📦得美那日诶 搬家换新居，\n新地四处 visiter🧳V贼得 参观寻好景，\n闲暇最爱 se promener🚶色扑好么内 散步小街巷，\n初来乍到 perdu😵败喝杜雨 迷路莫慌张。\n\n💡口诀：阿比得我住这城里，得美那日诶搬家忙收拾，V贼得参观新地标，色扑好么内散步好心情，败喝杜雨迷路别着急！"
+  },
+  {
+    "id": 103,
+    "day": 21,
+    "orderInDay": 5,
+    "theme": "Finding Places",
+    "themeZh": "方位指引",
+    "emoji": "🧭",
+    "wordIds": [
+      512,
+      513,
+      514,
+      515,
+      516
+    ],
+    "story": "有人问路 loin🧭路岸 说远不远呢，\n其实很近 près📍扑害 就在这附近，\n就在那里 à côté de👉阿勾得的 就在那旁边，\n马路对面 en face de👈昂发斯的 正对面就是，\n绕到后面 derrière🔙带喝喝夜喝 也在不远处。\n\n💡口诀：路岸远不远看地图，扑害近在咫尺好找路，阿勾得的旁边紧挨着，昂发斯的路对面一眼见，带喝喝夜喝后面绕一绕就到达！"
+  },
+  {
+    "id": 124,
+    "day": 26,
+    "orderInDay": 1,
+    "theme": "Making Phone Calls",
+    "themeZh": "打电话",
+    "emoji": "📞",
+    "wordIds": [
+      618,
+      617,
+      619,
+      625,
+      623
+    ],
+    "story": "掏出手机 composer📞拱拨Zei 号码拨出去，\ndécrocher📱得颗喝哦诗A 接起电话快应答，\n确认 ligne📞利涅 线路通畅别掉线，\n来通 appel vidéo🎥阿拜了微得哦 视频见面更亲切，\n点开 haut-parleur🔊欧爸喝乐喝 免提解放双手聊。\n\n💡口诀：拱拨Zei拨号快，得颗喝哦诗A接起来，利涅线路保通畅，阿拜了微得哦视频见，欧爸喝乐喝免提响！"
+  },
+  {
+    "id": 125,
+    "day": 26,
+    "orderInDay": 2,
+    "theme": "Mobile Devices & Accessories",
+    "themeZh": "移动设备配件",
+    "emoji": "🎧",
+    "wordIds": [
+      621,
+      622,
+      626,
+      665,
+      666
+    ],
+    "story": "选好 forfait🎧佛喝fai 套餐流量不用愁，\n戴上 écouteurs🎧A姑的喝 耳机听歌真享受，\n换个 sonnerie🎵送呢嘿 铃声响起心情好，\n飞机上用 mode avion✈️莫的阿V用 飞行模式保安全，\n用完 verrouiller🔒外忽耶 锁屏保护隐私全。\n\n💡口诀：佛喝fai套餐选好，A姑的喝耳机戴上，送呢嘿铃声换新，莫的阿V用飞行模式开，外忽耶锁屏安全全！"
+  },
+  {
+    "id": 126,
+    "day": 26,
+    "orderInDay": 3,
+    "theme": "Computer Basics",
+    "themeZh": "电脑基础",
+    "emoji": "💻",
+    "wordIds": [
+      631,
+      629,
+      630,
+      632,
+      633
+    ],
+    "story": "打开 ordinateur💻电脑要知 processeur💻扑好赛色喝 处理器快不快，\n配块 disque dur💽迪斯克丢喝 硬盘存数据装满满，\n升级 mémoire💾妹木哇喝 内存扩容跑得快，\n通电 il faut brancher🔌不夯诗A 插上电源才开机，\n不用就 débrancher🔌得不夯诗A 拔掉断电护机器。\n\n💡口诀：扑好赛色喝处理器核心强，迪斯克丢喝硬盘容量大，妹木哇喝内存不卡顿，不夯诗A插上电，得不夯诗A拔掉收！"
+  },
+  {
+    "id": 127,
+    "day": 26,
+    "orderInDay": 4,
+    "theme": "Installing & Troubleshooting",
+    "themeZh": "安装与故障",
+    "emoji": "🔧",
+    "wordIds": [
+      635,
+      636,
+      634,
+      658,
+      659
+    ],
+    "story": "新软件要 installer🔧安斯大雷 安装下载到本机，\n不用的快 désinstaller🗑️得z安斯大雷 卸载腾空间，\n出问题 redémarrer🔄喝得妈嘿 重启大法第一招，\n屏幕竟然 geler❄️日雷 死机卡住动不了，\n软件突然 planter💥扑浪得 崩溃闪退好心焦。\n\n💡口诀：安斯大雷装软件，得z安斯大雷卸载掉，喝得妈嘿重启试试，日雷卡死别着急，扑浪得崩溃重开就好！"
+  },
+  {
+    "id": 128,
+    "day": 26,
+    "orderInDay": 5,
+    "theme": "Display & Screen",
+    "themeZh": "屏幕显示",
+    "emoji": "🖥️",
+    "wordIds": [
+      627,
+      624,
+      628,
+      653,
+      652
+    ],
+    "story": "手机全是 écran tactile🖥️A颗夯大颗低了 触摸屏指尖滑动，\n开会别忘关 micro🎙️米颗喝哦 麦克风免得出声，\n传文件用 clé USB🖥️克雷迂爱斯杯 U盘插入就搞定，\n重要文档 scanner📄斯嘎内 扫描存入数字化，\n办公必备 imprimante🖨️安扑嘿芒特 打印机印出纸文件。\n\n💡口诀：A颗夯大颗低了触摸屏，米颗喝哦麦克风，克雷迂爱斯杯U盘插，斯嘎内扫描存，安扑嘿芒特打印出！"
+  },
+  {
+    "id": 129,
+    "day": 27,
+    "orderInDay": 1,
+    "theme": "Internet & Browsing",
+    "themeZh": "上网浏览",
+    "emoji": "🌐",
+    "wordIds": [
+      637,
+      638,
+      639,
+      640,
+      656
+    ],
+    "story": "打开 navigateur🌐那V嘎的喝 浏览器上网冲浪去，\n用 moteur de recherche🔍莫的喝得喝晒喝是 搜索引擎找东西，\n点个 lien📎李安 链接跳转到新页，\n太多 onglet📑ong哥赖 标签页舍不得关，\n经常要 se connecter🔑色高耐克得 登录才能继续看。\n\n💡口诀：那V嘎的喝浏览器刷，莫的喝得喝晒喝是搜索吧，李安链接点进去，ong哥赖标签堆满地，色高耐克得登录别忘啦！"
+  },
+  {
+    "id": 130,
+    "day": 27,
+    "orderInDay": 2,
+    "theme": "Copy, Paste & Delete",
+    "themeZh": "复制粘贴删除",
+    "emoji": "📋",
+    "wordIds": [
+      641,
+      642,
+      643,
+      644,
+      649
+    ],
+    "story": "选中文字 copier📋高瞥 复制到剪贴板，\n换个地方 coller📋高雷 粘贴内容搬过去，\n错了就要 supprimer🗑️需扑嘿妹 删除不必犹豫，\n还要记得 corbeille🗑️高喝拜 回收站也许能找回，\n实在不行 formater⚠️佛喝妈得 格式化全部清干净。\n\n💡口诀：高瞥复制先选好，高雷粘贴移过去，需扑嘿妹删错字，高喝拜回收站里找，佛喝妈得格式化请三思！"
+  },
+  {
+    "id": 131,
+    "day": 27,
+    "orderInDay": 3,
+    "theme": "Files & Data",
+    "themeZh": "文件数据",
+    "emoji": "📁",
+    "wordIds": [
+      645,
+      646,
+      647,
+      650,
+      651
+    ],
+    "story": "发邮件附上 pièce jointe📁瞥斯猪安特 附件一起走，\n大文件先 téléverser☁️得雷外喝C 上传到云端，\n流量消耗 données📊都内 数据一定省着用，\n打包前 compresser📦拱扑害C 压缩体积变小巧，\n接收了再 décompresser📦得拱扑害C 解压缩还原全貌。\n\n💡口诀：瞥斯猪安特附件发，得雷外喝C上传啦，都内数据省着跑，拱扑害C压缩小，得拱扑害C解压重新看！"
+  },
+  {
+    "id": 132,
+    "day": 27,
+    "orderInDay": 4,
+    "theme": "Accounts & Security",
+    "themeZh": "账户安全",
+    "emoji": "🔐",
+    "wordIds": [
+      654,
+      655,
+      661,
+      662,
+      657
+    ],
+    "story": "输入 mot de passe🔐某的爸斯 密码要记牢别外泄，\n填对 identifiant👤一荡地非样 用户名登录才成功，\n关注 sécurité🛡️C亏嘿地 安全设置不能马虎过，\n开启 pare-feu🔥爸喝佛 防火墙挡住外来攻击，\n临走一定 se déconnecter🚪色得高耐克得 登出账号保安全。\n\n💡口诀：某的爸斯密码记，一荡地非样用户名对，C亏嘿地安全守，爸喝佛防火墙护，色得高耐克得登出走！"
+  },
+  {
+    "id": 133,
+    "day": 27,
+    "orderInDay": 5,
+    "theme": "Cloud & Notifications",
+    "themeZh": "云端通知",
+    "emoji": "☁️",
+    "wordIds": [
+      648,
+      663,
+      620,
+      664,
+      660
+    ],
+    "story": "所有文件放 cloud☁️克劳德 云端随时随地去访问，\n开启 sauvegarde automatique💾搜V尬喝的哦都妈地克 自动备份不丢失，\n偶尔 réseau📶嘿Zou 信号不好也莫慌，\n关掉多余 notification push🔔闹地非嘎熊扑是 推送通知免打扰，\n还得防 virus🦠V嘿迂斯 病毒入侵要警惕。\n\n💡口诀：克劳德云端存一切，搜V尬喝的哦都妈地克备份自动，嘿Zou信号有点差，闹地非嘎熊扑是推送少看，V嘿迂斯病毒要防！"
+  },
+  {
+    "id": 114,
+    "day": 24,
+    "orderInDay": 1,
+    "theme": "Quality & Evaluation",
+    "themeZh": "品质评价",
+    "emoji": "⭐",
+    "wordIds": [
+      567,
+      568,
+      584,
+      585,
+      586
+    ],
+    "story": "Intéressant⭐安得汗桑有趣的故事看不够，\nEnnuyeux🥱昂女一约无聊打哈欠想走，\nMagnifique✨马你飞克壮丽美景看呆了眼，\nHorrible😱哦喝了不乐可怕的经历让人抖，\nJoli💐日哦里好看的花朵开满楼。\n\n💡口诀：安得汗桑趣，昂女一约闷，马你飞克真壮美，哦喝了不乐吓坏人，日哦里好看小而精致，好坏美丑心里分！"
+  },
+  {
+    "id": 115,
+    "day": 24,
+    "orderInDay": 2,
+    "theme": "Difficulty & Complexity",
+    "themeZh": "难易程度",
+    "emoji": "📊",
+    "wordIds": [
+      569,
+      570,
+      574,
+      575,
+      571
+    ],
+    "story": "Facile😊发西了容易上手不用愁，\nDifficile🤔地飞西了困难重重要加油，\nSimple👍伞普了简单明了不绕弯，\nCompliqué😵空普里给了复杂让人头大犯难，\nPossible💪波西不乐可能做到只要肯干。\n\n💡口诀：发西了容易地飞西了难，伞普了简单空普里给烦，波西不乐可能能实现，由易到难一步一步攀！"
+  },
+  {
+    "id": 116,
+    "day": 24,
+    "orderInDay": 3,
+    "theme": "Truth & Correctness",
+    "themeZh": "真伪对错",
+    "emoji": "⚖️",
+    "wordIds": [
+      576,
+      577,
+      578,
+      572,
+      573
+    ],
+    "story": "Vrai✅乌害真的假不了分清是非，\nFaux❌佛假的错的莫要信错人，\nJuste⚖️绿斯特公正正确不偏不倚，\nImpossible🚫安波西不乐不可能别瞎费心，\nImportant❗安波喝当最重要的心里记深。\n\n💡口诀：乌害是真佛是假，绿斯特公正不掺沙，安波西不乐办不到，安波喝当重要事最大！"
+  },
+  {
+    "id": 117,
+    "day": 24,
+    "orderInDay": 4,
+    "theme": "Similarity & Normality",
+    "themeZh": "异同常异",
+    "emoji": "🔄",
+    "wordIds": [
+      579,
+      580,
+      581,
+      582,
+      583
+    ],
+    "story": "Même🔄迈母相同一模一样的双包，\nDifférent🔀地飞喝当不同各有各的妙，\nSpécial🌟斯杯C阿了特别独特一眼认到，\nNormal👌闹喝了马了正常平平淡淡就好，\nBizarre🤔比咋喝奇怪让人摸不着头脑。\n\n💡口诀：迈母一样地飞喝当差，斯杯C阿了特别标新意，闹喝了马了正常最常见，比咋喝怪事少去理！"
+  },
+  {
+    "id": 118,
+    "day": 24,
+    "orderInDay": 5,
+    "theme": "Appearance & Cleanliness",
+    "themeZh": "外观净脏",
+    "emoji": "👕",
+    "wordIds": [
+      587,
+      596,
+      597,
+      598,
+      599
+    ],
+    "story": "Moche👕摸湿丑的别穿出去现，\nPropre✨普好普喝干净整洁人人赞，\nSale🧹撒了脏的衣服快去换，\nMouillé💧木耶湿的晾一晾就干，\nSec☀️塞克干的收进柜子里面。\n\n💡口诀：摸湿丑普好普喝干净，撒了脏木耶湿塞克干，洗衣晾晒收整好，干干净净每一天！"
+  },
+  {
+    "id": 119,
+    "day": 25,
+    "orderInDay": 1,
+    "theme": "Wealth & Status",
+    "themeZh": "贫富身份",
+    "emoji": "💰",
+    "wordIds": [
+      588,
+      589,
+      590,
+      591,
+      592
+    ],
+    "story": "Riche💰喝一湿富有生活不用愁，\nPauvre😢波呜喝贫穷日子要加油，\nCélèbre🌟塞赖不喝著名人人都知头，\nLibre🕊️里不喝自由自在到处走，\nOccupé🏃哦哥于杯忙碌工作手不休。\n\n💡口诀：喝一湿富波呜喝穷，塞赖不喝出名红，里不喝自由心里美，哦哥于杯忙到没空！"
+  },
+  {
+    "id": 120,
+    "day": 25,
+    "orderInDay": 2,
+    "theme": "Physical States",
+    "themeZh": "物态性状",
+    "emoji": "🔮",
+    "wordIds": [
+      593,
+      594,
+      595,
+      600,
+      601
+    ],
+    "story": "Prêt🔮普害准备好了一切妥当，\nPlein🍷普兰满的杯子溢出酒香，\nVide🫙维的空空如也不剩一点，\nDoux🧸杜柔软温柔摸着心里暖，\nDur🪨丢喝硬邦邦的啃都啃不烂。\n\n💡口诀：普害好了普兰满了，维的空了杜揉一揉，丢喝硬了牙咬不动，装满倒空软硬各有头！"
+  },
+  {
+    "id": 121,
+    "day": 25,
+    "orderInDay": 3,
+    "theme": "Speed & Noise",
+    "themeZh": "快慢静噪",
+    "emoji": "⚡",
+    "wordIds": [
+      602,
+      603,
+      604,
+      605,
+      606
+    ],
+    "story": "Rapide⚡哈皮的飞快像一阵风，\nLent🐢浪慢吞吞走路不慌不忙，\nCalme🧘嘎了母平静如水不起浪，\nBruyant📢不喝于一样吵闹耳朵嗡嗡响，\nFatigué😴发地给疲劳困了想上床。\n\n💡口诀：哈皮快的浪慢的行，嘎了母安静不喝于一样吵不停，发地给累了快歇去，动静快慢需适应！"
+  },
+  {
+    "id": 122,
+    "day": 25,
+    "orderInDay": 4,
+    "theme": "Emotional States",
+    "themeZh": "情绪状态",
+    "emoji": "😤",
+    "wordIds": [
+      607,
+      608,
+      609,
+      610,
+      611
+    ],
+    "story": "Énervé😤诶奈喝维烦躁火气往上冲，\nInquiet😟安给耶担心焦心心神不宁，\nSurpris😲斯宇喝普喝一惊讶瞪大眼，\nFier😎夫耶喝自豪挺胸抬头看青天，\nTimide😳地密的害羞脸红不敢见。\n\n💡口诀：诶奈喝维烦安给耶忧，斯宇喝普喝一惊夫耶喝傲，地密的羞怯把头低，喜怒哀惊心头绕！"
+  },
+  {
+    "id": 123,
+    "day": 25,
+    "orderInDay": 5,
+    "theme": "Personality Traits",
+    "themeZh": "性格品质",
+    "emoji": "🦸",
+    "wordIds": [
+      612,
+      613,
+      614,
+      615,
+      616
+    ],
+    "story": "Courageux🦸哭了阿日饿勇敢冲向最前面，\nPoli🙇波里有礼貌请谢谢挂嘴边，\nCurieux🔍哥于喝一饿好奇探究竟不停歇，\nSérieux📚塞喝一饿认真做事不敷衍，\nDrôle😂的喝了好笑逗人乐开颜。\n\n💡口诀：哭了阿日饿勇敢波里礼貌好，哥于喝一饿好奇塞喝一饿认真搞，的喝了幽默让人笑，五大好品质人生路上少不了！"
+  },
+  {
+    "id": 104,
+    "day": 22,
+    "orderInDay": 1,
+    "theme": "Essential Life Actions",
+    "themeZh": "生存必备动作",
+    "emoji": "🍽️",
+    "wordIds": [
+      517,
+      518,
+      519,
+      520,
+      521
+    ],
+    "story": "肚子饿了要 manger（忙日诶）快速吃，口干舌燥要 boire（不瓦喝）把水吸，逛街看见好货 acheter（阿湿得）别犹豫，二手闲置 vendre（旺的喝）换钱去，犹豫不决时 choisir（书瓦自喝）选第一！吃喝买卖加选择，日常生存五字诀。"
+  },
+  {
+    "id": 105,
+    "day": 22,
+    "orderInDay": 2,
+    "theme": "Opening, Closing & Manipulation",
+    "themeZh": "开关与操作",
+    "emoji": "🚪",
+    "wordIds": [
+      522,
+      523,
+      524,
+      525,
+      526
+    ],
+    "story": "进门先 ouvrir（乌夫喝衣喝）把门推开，走时别忘 fermer（费喝没）关好再拜，朋友搬家 aider（爱得）搭把手儿快，钥匙丢了 chercher（晒喝诗诶）满屋找出来，最后总能 trouver（吐喂）笑颜开！开门关门窗寻帮助，五动连坏顺口来。"
+  },
+  {
+    "id": 106,
+    "day": 22,
+    "orderInDay": 3,
+    "theme": "Carrying, Placing & Explaining",
+    "themeZh": "携带放置与解释",
+    "emoji": "🎒",
+    "wordIds": [
+      527,
+      528,
+      529,
+      530,
+      531
+    ],
+    "story": "美女 porter（抱喝得）红裙真优雅，行李 poser（波在）桌边别乱撒，老师 expliquer（爱克普力给）耐心把课答，学生 comprendre（共普行的喝）点头不说话，天天 apprendre（阿普行的喝）法语进步大！穿提放解释理解学，动词连环用处多。"
+  },
+  {
+    "id": 107,
+    "day": 22,
+    "orderInDay": 4,
+    "theme": "Questions & Answers",
+    "themeZh": "问答与思考",
+    "emoji": "💬",
+    "wordIds": [
+      532,
+      533,
+      534,
+      535,
+      536
+    ],
+    "story": "有疑问就 demander（的忙得）大胆问，听到问题 répondre（喝诶泵的喝）及时应，夜深人静 penser（帮在）人生路，选择相信 croire（库瓦喝）自己行，万事通 savoir（萨乌瓦喝）样样精！问回答想信知道，五个动词通人情。"
+  },
+  {
+    "id": 108,
+    "day": 22,
+    "orderInDay": 5,
+    "theme": "Daily Routine (Reflexive Verbs)",
+    "themeZh": "每日作息（反身动词）",
+    "emoji": "⏰",
+    "wordIds": [
+      537,
+      538,
+      539,
+      540,
+      541
+    ],
+    "story": "早上 se lever（色了喂）别再赖床榻，刷牙 se laver（色拉喂）清爽笑哈哈，出门前 se préparer（色普黑巴喝诶）换好衣袜，还得 s'habiller（萨逼耶）对着镜子照一下，新朋友 connaître（高奈特喝）握手掌心搭！起床洗漱备穿认识，一日之始从反身动词出发。"
+  },
+  {
+    "id": 109,
+    "day": 23,
+    "orderInDay": 1,
+    "theme": "Rest, Leisure & Socializing",
+    "themeZh": "休息休闲与社交",
+    "emoji": "🌳",
+    "wordIds": [
+      542,
+      543,
+      544,
+      545,
+      546
+    ],
+    "story": "工作累了 se reposer（色喝波在）沙发躺一下，饭后 se promener（色普喝奥么内）公园看花，路上 rencontrer（夯共特黑）老友开心拉呱，假期 visiter（威自得）巴黎铁塔，周末 inviter（安威得）朋友来家喝茶！休息散步遇参观邀，法式生活悠闲又风雅。"
+  },
+  {
+    "id": 110,
+    "day": 23,
+    "orderInDay": 2,
+    "theme": "Building, Driving & Senses",
+    "themeZh": "建造驾驶与感官",
+    "emoji": "🚗",
+    "wordIds": [
+      547,
+      548,
+      549,
+      550,
+      551
+    ],
+    "story": "工人 construire（共丝特灰喝）高楼平地起，爸爸 conduire（共对喝）开车送儿女，车里 écouter（诶姑得）音乐真惬意，路边 regarder（喝嘎喝得）风景入眼里，奶奶 raconter（哈共得）往事惹人忆。建驾听看讲，五个动词连成戏。"
+  },
+  {
+    "id": 111,
+    "day": 23,
+    "orderInDay": 3,
+    "theme": "Discussion & Decisions",
+    "themeZh": "讨论与决定",
+    "emoji": "🤝",
+    "wordIds": [
+      552,
+      553,
+      554,
+      555,
+      556
+    ],
+    "story": "大家一起 discuter（地斯格玉得）方案商量好，领导拍板 décider（得西得）方向定下了，你问 préférer（普黑费喝诶）咖啡还是茶汤好，有人 accepter（阿克塞普得）点头微微笑，有人 refuser（喝富裕在）摇头把手摇。讨论决定偏好接受拒，一个会议动词全用到！"
+  },
+  {
+    "id": 112,
+    "day": 23,
+    "orderInDay": 4,
+    "theme": "Appearing, Disappearing & Changing",
+    "themeZh": "出现消失与变化",
+    "emoji": "🌅",
+    "wordIds": [
+      557,
+      558,
+      559,
+      560,
+      561
+    ],
+    "story": "太阳 disparaître（地斯巴喝爱特喝）躲到云后了，月亮 apparaître（阿巴喝爱特喝）夜空亮起了，人生随时 changer（上日诶）计划赶变化，秋叶 tomber（洞呗）满地金黄洒，温度 monter（梦得）夏天又到啦！消失出现变落升，自然变幻顺口成。"
+  },
+  {
+    "id": 113,
+    "day": 23,
+    "orderInDay": 5,
+    "theme": "Passing, Trying, Winning & Losing",
+    "themeZh": "经历尝试与成败",
+    "emoji": "🏆",
+    "wordIds": [
+      562,
+      563,
+      564,
+      565,
+      566
+    ],
+    "story": "地铁 descendre（代桑的喝）到站下去走，时光 passer（巴在）如水流不休，新食谱 essayer（诶塞耶）下厨不怕丑，比赛 gagner（嘎涅）欢呼举双手，偶尔 perdre（拜喝的喝）也别愁眉头！下过试赢输，人生五味在其中。"
+  },
+  {
+    "id": 154,
+    "day": 32,
+    "orderInDay": 1,
+    "theme": "Office Supplies",
+    "themeZh": "办公文具",
+    "emoji": "🖇️",
+    "wordIds": [
+      773,
+      774,
+      775,
+      777,
+      778
+    ],
+    "story": "啊哥哈佛ze agrafeuse📎订书机咔嗒一声订住文件，\n通波呢 trombone🧷回形针弯弯夹住纸张，\n斯果吃 scotch📏透明胶带撕拉一声贴上破损，\n果了 colle🧴胶水挤出粘牢碎片不散架，\n西走 ciseaux✂️剪刀锋利裁纸如飞。\n\n💡口诀：啊哥哈佛ze订书机订好，通波呢回形针夹牢，斯果吃胶带贴平，果了胶水粘稳，西走剪刀裁齐——五星文具在手，办公学习不愁！"
+  },
+  {
+    "id": 155,
+    "day": 32,
+    "orderInDay": 2,
+    "theme": "Computer & Equipment",
+    "themeZh": "电脑设备",
+    "emoji": "💻",
+    "wordIds": [
+      767,
+      768,
+      769,
+      770,
+      771
+    ],
+    "story": "哦喝了地那得喝 ordinateur💻开机一天开始工作，\n克拉V耶 clavier⌨️键盘敲击劈里啪啦码字快，\n苏喝一 souris🖱️鼠标轻点滑动流畅，\nA颗夯 ecran🖥️屏幕亮起信息全在眼前，\n安扑喝一忙特 imprimante🖨️打印机吐出文件纸张热乎。\n\n💡口诀：哦喝了地那得喝电脑开，克拉V耶键盘敲，苏喝一鼠标滑，A颗夯屏幕亮，安扑喝一忙特打印出——办公五大件，一样不能少！"
+  },
+  {
+    "id": 156,
+    "day": 32,
+    "orderInDay": 3,
+    "theme": "School Supplies",
+    "themeZh": "学习文具",
+    "emoji": "✏️",
+    "wordIds": [
+      780,
+      781,
+      782,
+      783,
+      786
+    ],
+    "story": "大耶颗害用 taille-crayon✏️卷笔刀转一转笔尖又尖了，\n过么 gomme🧽橡皮擦一擦错误全消掉，\n特胡斯 trousse🎒笔袋鼓鼓囊囊装下所有宝贝，\n嘎了居拉特喝一斯 calculatrice🔢计算器按键算数快又准，\n嘎喝了得不 cartable🎒书包双肩背上知识装满满。\n\n💡口诀：大耶颗害用削尖笔，过么擦去错，特胡斯笔袋装文具，嘎了居拉特喝一斯算算术，嘎喝了得不书包背上——五大学习装备，学霸养成必备！"
+  },
+  {
+    "id": 157,
+    "day": 32,
+    "orderInDay": 4,
+    "theme": "In the Classroom",
+    "themeZh": "课堂之上",
+    "emoji": "🏫",
+    "wordIds": [
+      784,
+      785,
+      779,
+      787,
+      789
+    ],
+    "story": "他不咯哦 tableau🏫黑板前老师奋笔疾书，\n颗害 craie✍️粉笔在手粉尘飘洒，\nA他日爱喝 etagere📚书架上书本排列整齐，\n迂你佛喝么 uniforme👔校服统一看上去精神抖擞，\n哭喝的喝A颗害啊s用 cour de recreation⚽课间铃声一响操场奔跑。\n\n💡口诀：他不咯哦黑板上写字，颗害粉笔手中握，A他日爱喝书架靠墙站，迂你佛喝么校服统一穿，哭喝的喝A颗害啊s用操场尽情玩——课堂五大场景，一天学习不枯燥！"
+  },
+  {
+    "id": 158,
+    "day": 32,
+    "orderInDay": 5,
+    "theme": "School Life",
+    "themeZh": "校园生活",
+    "emoji": "🍽️",
+    "wordIds": [
+      788,
+      790,
+      791,
+      776,
+      772
+    ],
+    "story": "抗第呢 cantine🍽️中午下课冲向食堂排队打饭，\n妈贴喝 matiere📖各门学科轮流转累也值得，\n昂扑了哇丢当 emploi du temps📅课表密密麻麻安排每一天，\n斯迂喝里涅喝 surligneur🖍️荧光笔划重点期末好用，\n佛都果瞥ze photocopieuse📠复印机吱吱嘎嘎印出试卷一大堆。\n\n💡口诀：抗第呢食堂吃午饭，妈贴喝学科门门通，昂扑了哇丢当课表排满满，斯迂喝里涅喝荧光笔划重点，佛都果瞥ze复印机印试卷——五大校园日常，酸甜苦辣全都有！"
+  },
+  {
+    "id": 159,
+    "day": 33,
+    "orderInDay": 1,
+    "theme": "Exams & Grades",
+    "themeZh": "考试与成绩",
+    "emoji": "📝",
+    "wordIds": [
+      794,
+      795,
+      796,
+      797,
+      793
+    ],
+    "story": "色卖斯特喝 semestre📝新学期开始目标定高远，\n不迂了旦 bulletin📊成绩单寄回家手心冒汗，\n忙斯用 mention🏅评语优等全家喜笑颜开，\n喝都不累 redoubler😰万一留级可是大事不好，\n爸嘎咯喝A啊 baccalaureat🎓法国高考是人生第一道大关。\n\n💡口诀：色卖斯特喝新学期定目标，不迂了旦成绩单看分晓，忙斯用评语争优良，喝都不累留级不能有，爸嘎咯喝A啊高考大关闯！"
+  },
+  {
+    "id": 160,
+    "day": 33,
+    "orderInDay": 2,
+    "theme": "University Life",
+    "themeZh": "大学生活",
+    "emoji": "🎓",
+    "wordIds": [
+      798,
+      799,
+      800,
+      801,
+      804
+    ],
+    "story": "发给迂了得 faculte🎓大学校园自由又新鲜，\n昂飞得啊特喝 amphitheatre🏟️偌大阶梯教室几百人一起听课，\n不喝斯 bourse💰奖学金到手减轻家里负担，\n斯他日 stage💼实习机会要主动去争取，\n拱非喝昂斯 conference🎤学术讲座大开眼界收获多。\n\n💡口诀：发给迂了得大学自由行，昂飞得啊特喝阶梯大课坐满人，不喝斯奖学金解忧愁，斯他日实习增经验，拱非喝昂斯讲座开视野——五大高教场景，象牙塔里精彩多！"
+  },
+  {
+    "id": 161,
+    "day": 33,
+    "orderInDay": 3,
+    "theme": "Research & Advanced Studies",
+    "themeZh": "科研深造",
+    "emoji": "🔬",
+    "wordIds": [
+      805,
+      806,
+      807,
+      802,
+      803
+    ],
+    "story": "喝晒喝是 recherche🔬研究之路漫漫但充满好奇，\n拉波哈他喝 laboratoire🧪实验室里穿上白大褂做实验，\n晒喝诗喝 chercheur👩‍🔬研究员日夜攻关寻找新发现，\n带z these📜博士论文熬过一千个日日夜夜，\n妹木袜喝 memoire📑硕士论文先迈学术第一步。\n\n💡口诀：喝晒喝是研究探未知，拉波哈他喝实验室做实验，晒喝诗喝研究员攻关苦，带z博士论文熬日夜，妹木袜喝硕士论文先起步——五大科研阶梯，学术攀登无止境！"
+  },
+  {
+    "id": 162,
+    "day": 33,
+    "orderInDay": 4,
+    "theme": "Job & Career",
+    "themeZh": "求职就业",
+    "emoji": "💼",
+    "wordIds": [
+      808,
+      809,
+      810,
+      813,
+      814
+    ],
+    "story": "拱特哈 contrat💼合同一签工作有着落，\nC D 一 CDI📋长期合同铁饭碗最安心，\nC D D CDD⏳短期合同到期再寻下家，\n昂波诗A embaucher🤝公司招聘新人进来一起干，\n扑喝哦墨斯用 promotion🚀升职加薪职场攀登新高度。\n\n💡口诀：拱特哈合同签下来，C D 一长期铁饭碗，C D D短期有期限，昂波诗A招聘进新人，扑喝哦墨斯用升职步步高——五大职场节点，职业道路稳步行！"
+  },
+  {
+    "id": 163,
+    "day": 33,
+    "orderInDay": 5,
+    "theme": "Work Life",
+    "themeZh": "工作日常",
+    "emoji": "🏢",
+    "wordIds": [
+      815,
+      811,
+      812,
+      816,
+      792
+    ],
+    "story": "果来哥 collegue🏢同事之间默契配合一起干，\n得米斯用内 demissionner👋不爽了就辞职寻新方向，\n里桑些 licencier😰被裁员也别太往心里去，\n得了特哈V阿耶 teletravail🏠远程办公穿着睡衣也能干活，\n特喝一卖斯特喝 trimestre📅每三个月一个阶段回头看总结。\n\n💡口诀：果来哥同事并肩行，得米斯用内辞职重新来，里桑些裁员别灰心，得了特哈V阿耶远程办公自由多，特喝一卖斯特喝每季一回顾——五大工作日常，职场百态有苦甜！"
+  },
+  {
+    "id": 144,
+    "day": 30,
+    "orderInDay": 1,
+    "theme": "Movies & Music",
+    "themeZh": "影视音乐",
+    "emoji": "🎬",
+    "wordIds": [
+      717,
+      718,
+      719,
+      720,
+      721
+    ],
+    "story": "周末约看 film🎬飞了姆 电影院里坐一天，\n配上 musique🎵谬zeek 音乐嗨翻整条街，\n最爱那首 chanson🎤伤送 歌曲循环播百遍，\n抢张 concert🎸功赛喝 演唱会门票前排站，\n再看场 spectacle🎭斯拜克大可乐 演出灯光闪瞎眼。\n\n💡口诀：飞了姆电影选一部，谬zeek音乐耳朵服，伤送好歌单曲循环，功赛喝演唱会现场燃，斯拜克大可乐演出太震撼！"
+  },
+  {
+    "id": 145,
+    "day": 30,
+    "orderInDay": 2,
+    "theme": "Theater & Cinema",
+    "themeZh": "剧院影院",
+    "emoji": "🎭",
+    "wordIds": [
+      722,
+      723,
+      762,
+      763,
+      764
+    ],
+    "story": "去 théâtre🎭得啊特喝 剧院感受艺术气息，\n进 cinéma🍿C内吗 电影院爆米花配大片，\npréférer👍扑嘿飞嘿 更喜欢文艺还是商业片，\nadorer❤️阿都嘿 超爱某个导演的独特风格，\n有些电影 détester👎得大斯得 讨厌那种无聊剧情。\n\n💡口诀：得啊特喝剧院看话剧，C内吗影院看新片，扑嘿飞嘿偏好哪一个，阿都嘿超爱心头好，得大斯得烂片早点跑！"
+  },
+  {
+    "id": 146,
+    "day": 30,
+    "orderInDay": 3,
+    "theme": "Sports & Exercise",
+    "themeZh": "体育运动",
+    "emoji": "⚽",
+    "wordIds": [
+      724,
+      725,
+      726,
+      727,
+      728
+    ],
+    "story": "每天做 sport⚽斯报喝 运动身体倍儿健康，\n踢场 football⚽福特报了 足球场上满场飞奔，\n打局 tennis🎾得尼斯 网球拍挥汗如雨下，\n游圈 natation🏊那大熊 游泳池里畅快划水，\n冬天滑雪 ski⛷️斯给 雪道上飞速冲下。\n\n💡口诀：斯报喝运动要坚持，福特报了足球踢起来，得尼斯网球拍挥起，那大熊游泳扎进去，斯给滑雪冬天最爽！"
+  },
+  {
+    "id": 147,
+    "day": 30,
+    "orderInDay": 4,
+    "theme": "Outdoor Activities",
+    "themeZh": "户外活动",
+    "emoji": "🏔️",
+    "wordIds": [
+      729,
+      730,
+      731,
+      733,
+      734
+    ],
+    "story": "周末去 randonnée🏔️夯都内 徒步爬山亲近大自然，\n骑上 vélo🚴V洛 自行车乡间小路兜风去，\n早上 go course🏃酷喝斯 跑步锻炼出出汗，\n小朋友 jouer🤸猪A 玩耍游戏乐开花，\n比赛要 gagner🏆嘎涅 赢得冠军最骄傲。\n\n💡口诀：夯都内徒步山上走，V洛骑车风中溜，酷喝斯跑步要坚持，猪A玩耍快乐多，嘎涅赢下比赛笑呵呵！"
+  },
+  {
+    "id": 148,
+    "day": 30,
+    "orderInDay": 5,
+    "theme": "Games & Play",
+    "themeZh": "游戏玩耍",
+    "emoji": "🎲",
+    "wordIds": [
+      732,
+      735,
+      755,
+      758,
+      759
+    ],
+    "story": "玩个 jeu🎲热 游戏输赢都不重要，\n偶尔 perdre😢拜喝的喝 输了也别心情糟糕，\n最重要 s'amuser😄萨谬zei 玩得开心才是王道，\n大家 rire😂嘿喝 笑起来快乐环绕身边，\n别因为小事 pleurer😭噗乐嘿A 哭鼻子太没必要。\n\n💡口诀：热游戏大家一起玩，拜喝的喝输了不气馁，萨谬zei开心最重要，嘿喝笑声满屋子，噗乐嘿A哭鼻子快停住！"
+  },
+  {
+    "id": 149,
+    "day": 31,
+    "orderInDay": 1,
+    "theme": "Travel & Tourism",
+    "themeZh": "旅行观光",
+    "emoji": "✈️",
+    "wordIds": [
+      736,
+      737,
+      738,
+      739,
+      753
+    ],
+    "story": "计划 grand voyage✈️乌瓦亚日 旅行出发心痒痒，\n每座城市 visiter🏛️V贼得 参观景点打卡忙，\n当个 touriste📸肚黑斯特 游客拍照到处逛，\n拿着手机 photo📷佛都 照片拍到手发酸，\n期待周末 week-end🌞威干的 再来一场说走就走的旅行。\n\n💡口诀：乌瓦亚日旅途中，V贼得参观不停步，肚黑斯特游客就是我，佛都拍照留念多，威干的周末再出发！"
+  },
+  {
+    "id": 150,
+    "day": 31,
+    "orderInDay": 2,
+    "theme": "Arts & Creativity",
+    "themeZh": "艺术创作",
+    "emoji": "🎨",
+    "wordIds": [
+      740,
+      741,
+      742,
+      743,
+      766
+    ],
+    "story": "拿起画笔 peinture🎨班丢喝 油画颜料涂满布，\n铅笔 dessin✏️得散 素描线条勾勒出美图，\n厨房 cuisine🍳贵Z呢 烹饪美食也是艺术，\n阳台 jardinage🌱日阿喝地那日 养花种菜心情舒，\n发挥 créativité💡颗嘿阿地V得 创造力展现在每一处。\n\n💡口诀：班丢喝画油画，得散素描练手呀，贵Z呢做饭有创意，日阿喝地那日种花乐，颗嘿阿地V得创意无限大！"
+  },
+  {
+    "id": 151,
+    "day": 31,
+    "orderInDay": 3,
+    "theme": "Parties & Celebrations",
+    "themeZh": "派对庆祝",
+    "emoji": "🎉",
+    "wordIds": [
+      749,
+      750,
+      751,
+      752,
+      756
+    ],
+    "story": "今晚开 fête🎉发爱特 派对嗨翻不要停，\n庆祝 anniversaire🎂阿尼外喝赛喝 生日聚会吃蛋糕，\n精心挑个 cadeau🎁嘎都 礼物递到手中捧，\n别忘了 inviter📩安V得 邀请好友全到场，\n大家一起 danser💃当C 跳舞跳到天亮明。\n\n💡口诀：发爱特派对狂欢夜，阿尼外喝赛喝生日庆，嘎都礼物表心意，安V得邀请别漏人，当C跳舞跳到嗨翻天！"
+  },
+  {
+    "id": 152,
+    "day": 31,
+    "orderInDay": 4,
+    "theme": "Hobbies & Relaxation",
+    "themeZh": "爱好放松",
+    "emoji": "🧘",
+    "wordIds": [
+      744,
+      745,
+      746,
+      747,
+      765
+    ],
+    "story": "周末做 bricolage🔧不黑高拉日 手工捣鼓小修理，\n这是最爱 passe-temps❤️巴斯当 爱好之一不放弃，\n累了要 repos😴喝波 休息不能少一秒，\n享受 moment détente🧘得当特 放松时刻最舒服，\n可别做 ennuyeux😒昂女也 无聊事情浪费好时光。\n\n💡口诀：不黑高拉日手工活，巴斯当爱好要珍惜，喝波好好休息充电，得当特放松身心轻，昂女也无聊事快抛掉！"
+  },
+  {
+    "id": 153,
+    "day": 31,
+    "orderInDay": 5,
+    "theme": "Going Out & Having Fun",
+    "themeZh": "外出娱乐",
+    "emoji": "🍻",
+    "wordIds": [
+      748,
+      754,
+      757,
+      760,
+      761
+    ],
+    "story": "期待 vacances🏖️瓦杠斯 假期来一场远走高飞，\n约好朋友 sortir🍻锁喝地喝 出去嗨玩到天黑，\n卡拉OK chanter🎤伤得 唱歌尽兴麦克风不还，\n闭眼 rêver🌙嗨V 梦想远方未来的画卷，\n生活需要 passion🔥巴熊 热情点燃每一天。\n\n💡口诀：瓦杠斯度假去远方，锁喝地喝约友出去浪，伤得唱歌飙高音，嗨V梦想在心间，巴熊热情生活每一天！"
+  },
+  {
+    "id": 164,
+    "day": 34,
+    "orderInDay": 1,
+    "theme": "Numbers 11-15",
+    "themeZh": "11-15数字",
+    "emoji": "🔢",
+    "wordIds": [
+      817,
+      818,
+      819,
+      820,
+      821
+    ],
+    "story": "翁兹onze数到十一别着急，\n杜兹douze十二月里办大事，\n特嗨兹treize十三少女正妙龄，\n嘎到喝兹quatorze十四就要国庆日，\n干兹quinze十五分钟一转眼。\n\n💡口诀：翁兹十一杜兹十二特嗨兹十三，嘎到喝兹是十四法国国庆七月欢，干兹十五一刻钟，小小数字记心间！"
+  },
+  {
+    "id": 165,
+    "day": 34,
+    "orderInDay": 2,
+    "theme": "Numbers 16-50",
+    "themeZh": "16-50数字",
+    "emoji": "🔢",
+    "wordIds": [
+      822,
+      823,
+      824,
+      825,
+      826
+    ],
+    "story": "塞兹seize十六女儿初长成，\n万vingt二十弱冠好年华，\n特朗特trente三十而立正当年，\n嘎夯特quarante四十不惑心坦然，\n三杠特cinquante五十知命笑开颜。\n\n💡口诀：塞兹十六少年郎，万是二十郎当岁，特朗特三十嘎夯特四十，三杠特五十半百长，数字人生各芬芳！"
+  },
+  {
+    "id": 166,
+    "day": 34,
+    "orderInDay": 3,
+    "theme": "Numbers 60-1000 & Ordinals",
+    "themeZh": "60-1000与序数",
+    "emoji": "🔢",
+    "wordIds": [
+      827,
+      828,
+      829,
+      830,
+      831
+    ],
+    "story": "丝挖桑特soixante六十花甲退休乐，\n桑cent一百买条花裙子，\n米勒mille一千页书要读遍，\n普喝米耶premier第一场上领奖台，\n待喝涅dernier最后一个兜底来。\n\n💡口诀：丝挖桑特六十桑一百，米勒一千要记熟，普喝米耶第一个待喝涅最后，排序前后心里有数！"
+  },
+  {
+    "id": 167,
+    "day": 34,
+    "orderInDay": 4,
+    "theme": "Ordinals & Fractions",
+    "themeZh": "序数与分数",
+    "emoji": "📊",
+    "wordIds": [
+      832,
+      833,
+      834,
+      835,
+      836
+    ],
+    "story": "普喝奥山prochain下一个约会是什么，\n姆瓦贴moitié一半蛋糕留给你，\n嘎喝quart四分之一先切去，\n波库beaucoup很多鲜花摆满屋，\n波饿peu一点点心意也知足。\n\n💡口诀：普喝奥山下一个姆瓦贴分一半，嘎喝四分之一波库多，波饿虽少心意足，分数数量要记住！"
+  },
+  {
+    "id": 168,
+    "day": 34,
+    "orderInDay": 5,
+    "theme": "Quantity Comparison",
+    "themeZh": "数量比较",
+    "emoji": "⚖️",
+    "wordIds": [
+      837,
+      838,
+      839,
+      840,
+      841
+    ],
+    "story": "普绿plus想多吃多要更多，\n姆万moins减糖减肥减负荷，\n特厚trop太多太甜太啰嗦，\n阿塞assez够了刚好不算多，\n杜tout一下全部都被清空咯。\n\n💡口诀：普绿要多姆万要少，特厚过度阿塞刚好，杜是全都包圆了，比较级用法真巧妙！"
+  },
+  {
+    "id": 169,
+    "day": 35,
+    "orderInDay": 1,
+    "theme": "Quantities & Amounts",
+    "themeZh": "数量与总量",
+    "emoji": "📦",
+    "wordIds": [
+      842,
+      843,
+      844,
+      845,
+      846
+    ],
+    "story": "喝一昂rien一无所有兜空空，\n夏克chaque每个机会把握中，\n盖了克quelque一些希望在前方，\n普绿子耶喝plusieurs好几条路都能通，\n苏旺souvent常常努力总会成功。\n\n💡口诀：喝一昂没有夏克每个都要抓，盖了克一些普绿子耶喝好几下，苏旺常常坚持就有结果呀！"
+  },
+  {
+    "id": 170,
+    "day": 35,
+    "orderInDay": 2,
+    "theme": "Frequency Adverbs",
+    "themeZh": "频率副词",
+    "emoji": "🔄",
+    "wordIds": [
+      847,
+      848,
+      849,
+      850,
+      851
+    ],
+    "story": "杜入喝toujours天天总是最早起，\n日阿迈jamais从不迟到坏规矩，\n巴喝夫瓦parfois有时候偷懒睡懒觉，\n哈喝忙rarement很少熬夜伤元气，\n得日啊déjà已经准备好出发去。\n\n💡口诀：杜入喝总是日阿迈从不，巴喝夫瓦有时哈喝忙难得，得日啊已经准备好，频率副词要记牢！"
+  },
+  {
+    "id": 171,
+    "day": 35,
+    "orderInDay": 3,
+    "theme": "Time Sequence",
+    "themeZh": "时间顺序",
+    "emoji": "⏳",
+    "wordIds": [
+      852,
+      853,
+      854,
+      855,
+      856
+    ],
+    "story": "昂告喝encore还没还要再等一下，\n笔昂斗bientôt很快马上就出发，\n昂饭enfin终于到达目的地啦，\n大报喝d'abord先来后到序号不能差，\n普迂一puis然后一件一件来处理。\n\n💡口诀：昂告喝还再等笔昂斗马上到，昂饭终于到了大报喝先排好，普迂一然后顺序不乱套，时间先后要明了！"
+  },
+  {
+    "id": 172,
+    "day": 35,
+    "orderInDay": 4,
+    "theme": "Sequence & Position",
+    "themeZh": "时序与位置",
+    "emoji": "📍",
+    "wordIds": [
+      857,
+      858,
+      859,
+      860,
+      861
+    ],
+    "story": "昂斯迂一特ensuite接着放调料尝味道，\n阿旺avant以前从没做过这道菜，\n阿普嗨après以后就是拿手好菜了，\n帮荡pendant期间火候要把握好，\n的普迂一depuis自从学会天天露一手。\n\n💡口诀：昂斯迂一特接着阿旺以前阿普嗨以后，帮荡在做期间，的普迂一自从学会后，烹饪口诀顺口溜！"
+  },
+  {
+    "id": 173,
+    "day": 35,
+    "orderInDay": 5,
+    "theme": "Time Periods",
+    "themeZh": "时间周期",
+    "emoji": "📅",
+    "wordIds": [
+      862,
+      863,
+      864,
+      865,
+      866
+    ],
+    "story": "入斯嘎jusqu'à一直玩到天黑才回，\n色迈呢semaine一周接着一周过，\n姆瓦mois一个月眨眼就溜走，\n阿内année一年好时光不长留，\n斯耶克勒siècle一个世纪大江流。\n\n💡口诀：入斯嘎一直到终点，色迈呢七天一周期，姆瓦三十日阿内十二月满，斯耶克勒百年长，时光流转莫等闲！"
+  },
+  {
+    "id": 184,
+    "day": 38,
+    "orderInDay": 1,
+    "theme": "French Bakery & Pastry",
+    "themeZh": "面包房与糕点",
+    "emoji": "🥐",
+    "wordIds": [
+      917,
+      918,
+      919,
+      920,
+      953
+    ],
+    "story": "清晨先去 pâtisserie（巴第涩喝依）买个 café（嘎费）精神好，croissant（颗喝瓦桑）层层酥，baguette（巴盖特）香脆烤，tartine（大喝了第呢）抹上黄油甜蜜到。巴黎早晨的标配，面包房里香气绕！"
+  },
+  {
+    "id": 185,
+    "day": 38,
+    "orderInDay": 2,
+    "theme": "Café Culture & Drinks",
+    "themeZh": "咖啡文化与饮品",
+    "emoji": "☕",
+    "wordIds": [
+      928,
+      929,
+      921,
+      922,
+      948
+    ],
+    "story": "下午约在 terrasse（带喝了阿斯）晒太阳，点杯 apéritif（阿贝喝依第夫）开胃爽，饭后 digestif（地日埃丝第夫）助消化，饿了就来 crêpe（颗喝爱普）甜又香，再来 galette（嘎赖特）荞麦饼咸香，cassecroûte（嘎斯颗喝了乌特）简餐也欢畅！"
+  },
+  {
+    "id": 186,
+    "day": 38,
+    "orderInDay": 3,
+    "theme": "Ordering at a Restaurant",
+    "themeZh": "餐厅点餐",
+    "emoji": "🍽️",
+    "wordIds": [
+      930,
+      931,
+      932,
+      959,
+      961
+    ],
+    "story": "坐下先看 carte（嘎喝了特）菜单翻，formule（佛喝缪了）套餐更划算，plat du jour（普拉丢日晚喝）每日换，选好就叫 commander（高芒得）不慌乱，酒水搭配 conseiller（空塞也）推荐专人管。法国餐厅点餐顺序要记牢！"
+  },
+  {
+    "id": 187,
+    "day": 38,
+    "orderInDay": 4,
+    "theme": "Meat Doneness & Dietary Needs",
+    "themeZh": "牛排熟度与饮食需求",
+    "emoji": "🥩",
+    "wordIds": [
+      940,
+      941,
+      942,
+      943,
+      944
+    ],
+    "story": "点牛排先问熟度不能慌，cru（颗喝玉）生吃塔塔最狂放，saignant（塞涅昂）三分带血嫩又香，à point（阿普万）五分粉红正是好时光，bien cuit（比昂归）全熟孩子最爱尝。cuit（归）是熟，cru 是生，五个词搞定牛排不迷茫！"
+  },
+  {
+    "id": 188,
+    "day": 38,
+    "orderInDay": 5,
+    "theme": "Food Shops & Specialists",
+    "themeZh": "法国美食店铺",
+    "emoji": "🏪",
+    "wordIds": [
+      954,
+      955,
+      956,
+      957,
+      958
+    ],
+    "story": "逛街淘宝各有专门的店，traiteur（特喝埃的喝）熟食外卖方便选，épicerie（A比涩喝依）杂货买牛奶饼干，boucherie（不诗喝依）鲜肉牛排最新鲜，poissonnerie（普瓦松呢喝依）海鲜活蹦乱跳欢，caviste（嘎维斯特）葡萄酒专卖品味显。法国人讲究去哪家店买什么，门清！"
+  },
+  {
+    "id": 189,
+    "day": 39,
+    "orderInDay": 1,
+    "theme": "Restaurant Phrases",
+    "themeZh": "餐厅实用短句",
+    "emoji": "🗣️",
+    "wordIds": [
+      933,
+      934,
+      935,
+      938,
+      939
+    ],
+    "story": "进门问好先说来意要讲清，carafe d'eau（嘎喝阿夫豆）免费水随便领，pourboire（不喝不瓦喝）小费随意表心情，service compris（塞喝维斯空普喝伊）服务费已包含明，sur place（续喝了普拉斯）堂食 à emporter（阿昂波喝得）带，五个短句让你在法国餐厅游刃有余！"
+  },
+  {
+    "id": 190,
+    "day": 39,
+    "orderInDay": 2,
+    "theme": "Restaurant Types",
+    "themeZh": "法国餐饮场所类型",
+    "emoji": "🏠",
+    "wordIds": [
+      951,
+      952,
+      936,
+      937,
+      950
+    ],
+    "story": "选好地方吃饭学问深，brasserie（布喝啊涩喝依）啤酒餐厅从早开到夜深沉，bistrot（比丝特喝了哦）小酒馆温馨家常真，terrasse（带喝了阿斯）露天座看路人风景新，提前 réservation（喝A在了瓦熊）预约不费神，白白的 nappe（那普）桌布铺平整。在巴黎吃顿饭，花样真不少！"
+  },
+  {
+    "id": 191,
+    "day": 39,
+    "orderInDay": 3,
+    "theme": "Sharing & Enjoying Food",
+    "themeZh": "分享与享用美食",
+    "emoji": "😋",
+    "wordIds": [
+      962,
+      963,
+      964,
+      960,
+      949
+    ],
+    "story": "déguster（得个玉斯特）细品慢咽享佳肴，inviter（安为得）大方请客把单交，partager（巴喝大日A）分享美食乐陶陶，servir（塞喝为喝）上菜斟酒服务好，一整桌摆在 plateau（普拉豆）大托盘上真热闹。法国人的餐桌，吃的是情调！"
+  },
+  {
+    "id": 192,
+    "day": 39,
+    "orderInDay": 4,
+    "theme": "Formal Dining Courses",
+    "themeZh": "正式法餐流程",
+    "emoji": "🍷",
+    "wordIds": [
+      925,
+      926,
+      927,
+      924,
+      923
+    ],
+    "story": "正式晚餐三道式不能少，entrée（昂特喝A）前菜开胃刚刚好，plat principal（普拉普喝安西巴勒）主菜重磅登场高潮到，dessert（的塞喝）甜品完美收官妙，foie gras（夫瓦噶喝啊）鹅肝奢华点缀骄傲，escargot（艾丝嘎喝够）蜗牛法餐经典代表。法餐仪式感，五步走完！"
+  },
+  {
+    "id": 193,
+    "day": 39,
+    "orderInDay": 5,
+    "theme": "Dietary Info & Food Prep",
+    "themeZh": "饮食信息与食物处理",
+    "emoji": "🥘",
+    "wordIds": [
+      945,
+      946,
+      947,
+      965,
+      966
+    ],
+    "story": "点菜要问清楚不踩坑，allergie（阿赖喝日依）过敏提前说一声，végétarien（维日A大喝央）素食菜单有没有分，halal（阿拉勒）清真餐厅在哪个门，吃不完 réchauffer（喝A收费）明天热一顿，屯太多 congeler（空日勒）冷冻保鲜更长久。贴士记心间，吃遍法国处处顺！"
+  },
+  {
+    "id": 134,
+    "day": 28,
+    "orderInDay": 1,
+    "theme": "Asking for Help",
+    "themeZh": "紧急求助",
+    "emoji": "🆘",
+    "wordIds": [
+      667,
+      668,
+      669,
+      670,
+      671
+    ],
+    "story": "法国遇急大声喊「欧色固喝」(au secours)来救命，见到路人直接说「哎嘚木哇」(aidez-moi)快帮帮我。说不清楚就补一句「波兹万带德」(besoin d'aide)我需要帮忙，礼貌求助说「不威雾」(pouvez-vous)您能帮我吗。情况紧急更要喊「塞迪玉喝让」(c'est urgent)这事很急！紧急求助五句话，法国遇事不慌张！"
+  },
+  {
+    "id": 135,
+    "day": 28,
+    "orderInDay": 2,
+    "theme": "Accidents & Injuries",
+    "themeZh": "事故与伤情",
+    "emoji": "🤕",
+    "wordIds": [
+      672,
+      673,
+      674,
+      675,
+      676
+    ],
+    "story": "路上遇到「阿克西当」(accident)出了事故，一看伤员「不累续喝」(blessure)伤口鲜红。伤口「塞捏」(saigner)流血不停，骨头「嘎塞」(cassé)怕是断了。还有「不灰律喝」(brûlure)烫伤一大片，事故伤情五词连。学会这五词，法国遇险说清伤情不误事！"
+  },
+  {
+    "id": 136,
+    "day": 28,
+    "orderInDay": 3,
+    "theme": "Falls & Fractures",
+    "themeZh": "摔倒与骨折",
+    "emoji": "🦴",
+    "wordIds": [
+      677,
+      678,
+      679,
+      680,
+      715
+    ],
+    "story": "一不留神「东贝」(tomber)摔倒在地，医院一查「夫哈克迪玉喝」(fracture)骨折无疑。还好不是「昂刀喝斯」(entorse)只是扭伤，但也痛得「诶杜费」(étouffer)快要窒息。护士拿来「帮斯忙」(pansement)绷带缠上，摔倒骨折五词记！法国受伤不慌张，毛病都能说清楚！"
+  },
+  {
+    "id": 137,
+    "day": 28,
+    "orderInDay": 4,
+    "theme": "At the Police Station",
+    "themeZh": "在警察局",
+    "emoji": "👮",
+    "wordIds": [
+      681,
+      682,
+      686,
+      687,
+      688
+    ],
+    "story": "东西被偷快报警，去「高米萨喝亚」(commissariat)警察局。进门就说「普兰特」(plainte)要报案，警察问你有谁能作「嘚木万」(témoin)证人。轮到「让大喝姆」(gendarme)宪兵做笔录，警方马上启动「昂盖特」(enquête)来调查。警察局里五词全，法国报案不迷路！"
+  },
+  {
+    "id": 138,
+    "day": 28,
+    "orderInDay": 5,
+    "theme": "Lost Documents & Theft",
+    "themeZh": "失窃与证件丢失",
+    "emoji": "🪪",
+    "wordIds": [
+      683,
+      684,
+      691,
+      692,
+      693
+    ],
+    "story": "地铁里面遭「沃累」(voler)东西被偷，赶紧喊捉「沃勒喝」(voleur)小偷别走。一看「报喝特啡耶」(portefeuille)钱包不见了，还有「爸斯报喝」(passeport)护照也溜走。更惨「嘎喝特迪当滴嘚」(carte d'identité)身份证也没了，失窃证件的噩梦愁！记住五词马上报失，法国丢东西有办法！"
+  },
+  {
+    "id": 139,
+    "day": 29,
+    "orderInDay": 1,
+    "theme": "Fire & Danger",
+    "themeZh": "火灾与危险",
+    "emoji": "🔥",
+    "wordIds": [
+      699,
+      700,
+      701,
+      702,
+      705
+    ],
+    "story": "闻到「飞没」(fumée)烟味不对劲，抬头看见「安桑滴」(incendie)大火在蔓延。赶紧喊「啡额」(feu)着火了快跑，再打给「崩撇」(pompier)消防员。现场「当日」(danger)危险别靠近，火灾危险五词连！法国遇火不慌乱，五词帮你说清楚！"
+  },
+  {
+    "id": 140,
+    "day": 29,
+    "orderInDay": 2,
+    "theme": "Emergency Exits & Evacuation",
+    "themeZh": "疏散与逃生",
+    "emoji": "🏃",
+    "wordIds": [
+      703,
+      704,
+      709,
+      706,
+      707
+    ],
+    "story": "「阿拉喝姆」(alarme)警报一响别发呆，走「搜喝替德色固喝」(sortie de secours)紧急出口快出来。工作人员喊「诶瓦奎诶」(évacuer)快撤离，外面「衣弄达熊」(inondation)洪水还在涨。更吓人的是「趟不勒忙德待喝」(tremblement de terre)地震摇晃，疏散求生五词防！法国灾害有预案，五词帮你不慌张！"
+  },
+  {
+    "id": 141,
+    "day": 29,
+    "orderInDay": 3,
+    "theme": "Embassy & Consulate Help",
+    "themeZh": "使领馆求助",
+    "emoji": "🏛️",
+    "wordIds": [
+      685,
+      689,
+      690,
+      695,
+      696
+    ],
+    "story": "遭遇「阿歌嘿熊」(agression)袭击要报案，先找「阿沃嘎」(avocat)律师来帮忙。去局子里做一份「嘚克拉喝熊」(déclaration)笔录声明，别忘了联系「昂爸萨德」(ambassade)大使馆求助。还有「工序辣」(consulat)领事馆也能帮，使领馆求救五词方！法国遇困找组织，领事保护不孤独！"
+  },
+  {
+    "id": 142,
+    "day": 29,
+    "orderInDay": 4,
+    "theme": "Emergency Numbers & Services",
+    "themeZh": "紧急电话与服务",
+    "emoji": "📞",
+    "wordIds": [
+      697,
+      698,
+      694,
+      710,
+      711
+    ],
+    "story": "紧急情况拨「女没猴迪玉喝让斯」(numéro d'urgence)求救热线，有人重伤打「萨米玉」(SAMU)法国急救别犹豫。开车遇查带「拜喝密德工迪迂喝」(permis de conduire)驾照在身上，送医院直奔「玉喝让斯」(urgences)急诊室。提前「行嘚雾」(rendez-vous)预约更快看上病，紧急服务五词齐！法国遇急拨对号，生命救援不耽误！"
+  },
+  {
+    "id": 143,
+    "day": 29,
+    "orderInDay": 5,
+    "theme": "Pharmacy & Wound Care",
+    "themeZh": "药房与伤口处理",
+    "emoji": "💊",
+    "wordIds": [
+      712,
+      713,
+      714,
+      708,
+      716
+    ],
+    "story": "摔倒后感到「色固斯」(secousse)一阵震痛，医生让拍「哈迪欧歌哈飞」(radiographie)X光片看看清楚。看完拿「奥喝到囊斯」(ordonnance)处方笺去买药，找到「发喝马戏德嘎喝德」(pharmacie de garde)值班药店不入迷途。买药回来「嘚赞啡克嘚」(désinfecter)先消毒，药房伤口五词酷！法国买药不跑冤枉路，伤口处理也靠谱！"
+  },
+  {
+    "id": 174,
+    "day": 36,
+    "orderInDay": 1,
+    "theme": "Polite Basics & Agreement",
+    "themeZh": "礼貌基础与同意",
+    "emoji": "🙏",
+    "wordIds": [
+      867,
+      868,
+      869,
+      870,
+      871
+    ],
+    "story": "有人问你 bien sûr（比暗叙喝）当然同意不犹豫，\n不确定时说 peut-être（波太特喝）也许保余地，\n即使被拒 quand même（杠迈姆）还是要说声谢谢，\ntout à fait（度大费）完全赞同表达最强音，\npas du tout（巴丢度）一点也不千万别客气！\n\n口诀：比暗叙喝当然对，波太特喝也许留，杠迈姆还是说谢谢，度大费完全没问题，巴丢度一点也不推！"
+  },
+  {
+    "id": 175,
+    "day": 36,
+    "orderInDay": 2,
+    "theme": "Getting Things Done",
+    "themeZh": "搞定事情与鼓励",
+    "emoji": "✅",
+    "wordIds": [
+      872,
+      873,
+      874,
+      875,
+      876
+    ],
+    "story": "完成任务 ça y est（萨衣爱）终于搞定松口气，\n安排约定 ça marche（萨马喝诗）行得通没问题，\n准备出发 c'est parti（赛巴喝第）开始行动不磨叽，\n大声喊 allez（阿累）加油打气别放弃，\n递上成果 voilà（乌瓦拉）这就是你要的东西！\n\n口诀：萨衣爱搞定了，萨马喝诗行得通，赛巴喝第开始啦，阿累加油莫停下，乌瓦拉这就是给您哒！"
+  },
+  {
+    "id": 176,
+    "day": 36,
+    "orderInDay": 3,
+    "theme": "Connecting & Contrasting Ideas",
+    "themeZh": "连接对比观点",
+    "emoji": "🔗",
+    "wordIds": [
+      877,
+      878,
+      879,
+      880,
+      881
+    ],
+    "story": "聊天中 d'ailleurs（达耶喝）顺便说一句提新话，\n想转折 par contre（巴喝共特喝）不过另一边有说法，\n来纠正 en fait（昂费特）其实真相跟你讲，\n遇胡说 n'importe quoi（南报喝特库瓦）别信他瞎掰掰，\n真不知 je ne sais pas（热呢赛巴）老实承认别装傻！\n\n口诀：达耶喝顺便说说，巴喝共特喝不过可是，昂费特其实真相是，南报喝特库瓦别胡扯，热呢赛巴我真不知！"
+  },
+  {
+    "id": 177,
+    "day": 36,
+    "orderInDay": 4,
+    "theme": "Expressing Needs & Frustration",
+    "themeZh": "表达需求与不满",
+    "emoji": "😤",
+    "wordIds": [
+      882,
+      883,
+      884,
+      885,
+      886
+    ],
+    "story": "听不懂时 je ne comprends pas（热呢共普夯巴）请再说一遍，\n点餐礼貌 je voudrais（热呢乌的害）我想要别硬来，\n缺少东西 j'ai besoin de（日诶波兹万的）我急需这东西，\n实在忍不了 j'en ai marre（让耐马喝）我受够了要爆发，\n对方道歉 ce n'est pas grave（色耐巴哥哈夫）没关系别放心上啊！\n\n口诀：热呢共普夯巴没听懂，热呢乌的害我想要，日诶波兹万的我需要，让耐马喝受不了，色耐巴哥哈夫没关系！"
+  },
+  {
+    "id": 178,
+    "day": 36,
+    "orderInDay": 5,
+    "theme": "Good Wishes & Congratulations",
+    "themeZh": "祝福与祝贺",
+    "emoji": "🎉",
+    "wordIds": [
+      887,
+      888,
+      889,
+      890,
+      891
+    ],
+    "story": "错过好事 tant pis（当逼）算了认命不强求，\n好消息来 tant mieux（当米厄）那更好开心点个头，\n送别工作 bon courage（崩固哈日）加油坚持别趴下，\n考试之前 bonne chance（包呢上司）祝好运全拿下，\n喜事临门 félicitations（费里西大斯用）恭喜祝贺乐开花！\n\n口诀：当逼算了不纠结，当米厄更好真开心，崩固哈日加油干，包呢上司好运连，费里西大斯用恭喜贺喜！"
+  },
+  {
+    "id": 179,
+    "day": 37,
+    "orderInDay": 1,
+    "theme": "Celebrations & Special Occasions",
+    "themeZh": "庆祝与特殊场合",
+    "emoji": "🎂",
+    "wordIds": [
+      892,
+      893,
+      894,
+      895,
+      896
+    ],
+    "story": "生日派对上 joyeux anniversaire（日瓦耶阿尼外喝赛喝）唱起来，\n开饭之前 bon appétit（崩那贝第）祝大家胃口大开，\n朋友远行 bon voyage（崩乌瓦亚日）旅途平安别忘怀，\n日常道别 bonne journée（包呢入喝内）整天愉快心情嗨，\n周五下班 bon week-end（崩威干的）周末解放嗨起来！\n\n口诀：日瓦耶阿尼外喝赛喝生日快乐，崩那贝第慢用多吃，崩乌瓦亚日旅途顺风，包呢入喝内一天好心情，崩威干的周末尽兴！"
+  },
+  {
+    "id": 180,
+    "day": 37,
+    "orderInDay": 2,
+    "theme": "Apologies & Polite Responses",
+    "themeZh": "道歉与礼貌回应",
+    "emoji": "🤝",
+    "wordIds": [
+      897,
+      898,
+      899,
+      900,
+      901
+    ],
+    "story": "举杯同庆 à votre santé（阿我特喝桑得）干杯为健康祝福，\n犯了错 je suis désolé（热呢随得早累）对不起真心道歉诉，\n帮了忙 avec plaisir（阿外克普赖自喝）乐意效劳不推路，\n道谢后 pas de problème（巴的普好不赖姆）没问题轻松处，\n商量好 d'accord（达过喝）同意就这样定数！\n\n口诀：阿我特喝桑得为健康干，热呢随得早累真心歉，阿外克普赖自喝乐意帮，巴的普好不赖姆没问题，达过喝一言为定！"
+  },
+  {
+    "id": 181,
+    "day": 37,
+    "orderInDay": 3,
+    "theme": "Expressing Feelings & Opinions",
+    "themeZh": "表达感受与看法",
+    "emoji": "😍",
+    "wordIds": [
+      902,
+      903,
+      904,
+      905,
+      906
+    ],
+    "story": "忍到极限 ça suffit（萨叙费）够了停下来别再继续，\n想不通时 laisse tomber（赖斯动贝）算了别纠结放下去，\n无所谓时 je m'en fiche（热呢忙费诗）随便不在乎由他去，\n错过良机 c'est dommage（赛刀马日）真可惜遗憾在心底，\n惊恐万分 quelle horreur（盖了哦喝喝）太可怕了快躲起！\n\n口诀：萨叙费够啦停手，赖斯动贝算了放下，热呢忙费诗无所谓它，赛刀马日真可惜呀，盖了哦喝喝吓死人啦！"
+  },
+  {
+    "id": 182,
+    "day": 37,
+    "orderInDay": 4,
+    "theme": "Likes, Dislikes & Indifference",
+    "themeZh": "喜欢讨厌与无所谓",
+    "emoji": "💖",
+    "wordIds": [
+      907,
+      908,
+      909,
+      910,
+      911
+    ],
+    "story": "看到美景 c'est génial（赛日诶尼亚了）太棒了欢呼雀跃，\n碰到烂片 c'est nul（赛女了）太烂了直想退票别，\n心头最爱 j'adore（日阿到喝）我超喜欢爱不灭，\n最烦的事 je déteste（热呢得代斯特）我讨厌千万别说，\n怎么都行 ça m'est égal（萨麦得嘎了）我无所谓别纠结！\n\n口诀：赛日诶尼亚了超棒赞，赛女了烂透了讨厌，日阿到喝超爱不放手，热呢得代斯特恨在心头，萨麦得嘎了无所谓随你走！"
+  },
+  {
+    "id": 183,
+    "day": 37,
+    "orderInDay": 5,
+    "theme": "Goodbyes, Gratitude & Casual Talk",
+    "themeZh": "道别感谢与随意表达",
+    "emoji": "👋",
+    "wordIds": [
+      912,
+      913,
+      914,
+      915,
+      916
+    ],
+    "story": "争论无果 peu importe（波安报喝特）不重要不必再争强，\n随时欢迎 n'importe quand（南报喝特杠）什么时候都无妨，\n当日再见 à tout à l'heure（阿度大勒喝）一会儿后再碰上，\n不知何日 à bientôt（阿比安豆）回头再见情意长，\n最后不忘 merci beaucoup（麦喝西波固）非常感谢记心上！\n\n口诀：波安报喝特不重要，南报喝特杠随时到，阿度大勒喝一会儿见，阿比安豆回头再相见，麦喝西波固万分感谢念！"
+  },
+  {
+    "id": 194,
+    "day": 40,
+    "orderInDay": 1,
+    "theme": "Spatial Prepositions",
+    "themeZh": "空间方位介词",
+    "emoji": "📐",
+    "wordIds": [
+      967,
+      968,
+      969,
+      974,
+      981,
+      1001,
+      1002
+    ],
+    "story": "找东西先想 dans（当）在什么里面不慌张，\n放东西放 sur（叙喝）在某某之上稳当当，\n找不见看 sous（苏）桌子底下藏猫猫，\n选左右 entre（昂特喝）两者之间做比较，\n多人中 parmi（巴喝米）在其中挑最棒，\ndevant（的旺）前面有路大胆闯，\nderrière（带喝喝依爱喝）后面别落下紧跟上！\n\n口诀：当里面叙喝上，苏下昂特喝中，巴喝米人多找，的旺前带喝喝依爱喝后跟上！"
+  },
+  {
+    "id": 195,
+    "day": 40,
+    "orderInDay": 2,
+    "theme": "Companionship & Purpose",
+    "themeZh": "伴随与目的介词",
+    "emoji": "🤝",
+    "wordIds": [
+      970,
+      971,
+      972,
+      973,
+      975,
+      976,
+      1003,
+      1004
+    ],
+    "story": "和朋友一起 avec（阿外克）带着开心去玩耍，\n一个人也 sans（桑）没有陪伴不可怕，\n做事都有 pour（不喝）为了目标向前跨，\n意见不同 contre（共特喝）反对靠墙来表达，\n去朋友家 chez（谁）是谁那里喝壶茶，\n往哪走看 vers（外喝）朝向目标大步踏，\n做事 avant（阿旺）之前先计划再出发，\naprès（阿普害）之后复盘总结长记性啊！\n\n口诀：阿外克一起桑没有，不喝为了共特喝反，谁家里外喝向着，阿旺前阿普害后，做事有始有终！"
+  },
+  {
+    "id": 196,
+    "day": 40,
+    "orderInDay": 3,
+    "theme": "Time & Circumstance",
+    "themeZh": "时间与情况介词",
+    "emoji": "⏰",
+    "wordIds": [
+      977,
+      978,
+      979,
+      980,
+      982
+    ],
+    "story": " dès（带）从那一刻起身就出发不拖拉，\nselon（色龙）根据实际情况来规划，\nmalgré（马了哥嘿）尽管困难重重也不怕，\npendant（帮当）假期期间慢慢享受他，\net（诶）最简单的连接别把它落下！\n\n口诀：带从即刻起，色龙根据定，马了哥嘿尽管难，帮当期间享，小小诶字连天下！"
+  },
+  {
+    "id": 197,
+    "day": 40,
+    "orderInDay": 4,
+    "theme": "Logical Connectors",
+    "themeZh": "逻辑连接词",
+    "emoji": "🔗",
+    "wordIds": [
+      983,
+      984,
+      985,
+      986,
+      987,
+      988,
+      989,
+      990
+    ],
+    "story": "选A ou（乌）选B二者挑一别纠结，\n想好了 mais（迈）但是还有条件得要说，\n推理结论 donc（动克）所以因此没差错，\n解释原因 car（嘎喝）因为理由要摆明，\nalors（阿老喝）于是那么自然就引出，\n不这样 sinon（西弄）否则后果很严重，\npourtant（不喝当）然而世事常有反转，\ncependant（色帮当）不过还是得冷静思考！\n\n口诀：乌或迈但是，动克所以嘎喝因为，阿老喝那么西弄否则，不喝当然而色帮当不过！"
+  },
+  {
+    "id": 198,
+    "day": 40,
+    "orderInDay": 5,
+    "theme": "Question Words",
+    "themeZh": "疑问词",
+    "emoji": "❓",
+    "wordIds": [
+      991,
+      992,
+      993,
+      994,
+      995,
+      996,
+      997,
+      998
+    ],
+    "story": "问人用 qui（给）是谁干的快招出来，\n问事用 que（哥）什么情况讲明白，\n没听清说 quoi（库瓦）啥？你说的是哪出戏？\n找地点问 où（乌）那个地方在哪里？\n问时间说 quand（杠）什么时候是时机？\n问原因 pourquoi（不喝库瓦）为啥这样为哪般？\n问方法 comment（高忙）怎样搞定怎么办？\n问数量 combien（供比暗）多少才够数一数！\n\n口诀：给问人哥问事，库瓦口语啥意思，乌在哪里杠何时，不喝库瓦为什么，高忙怎么办供比暗多少算！"
+  },
+  {
+    "id": 199,
+    "day": 40,
+    "orderInDay": 6,
+    "theme": "Demonstration & Location",
+    "themeZh": "指示与位置词",
+    "emoji": "👉",
+    "wordIds": [
+      999,
+      1000,
+      1005,
+      1006,
+      1007
+    ],
+    "story": "介绍东西说 Voici📌乌瓦C 这就是，\n那边那个是 Voilà👉乌瓦辣 那就是，\n走近一点说 Ici📍一C 在这里，\n远远一指说 Là👆辣 在那里，\n更远就看 Là-bas🌍辣罢 在那边的！\n\n💡口诀：乌瓦C这是乌瓦辣那是，一C这里辣那里辣罢更远的那边！"
+  }
+]
