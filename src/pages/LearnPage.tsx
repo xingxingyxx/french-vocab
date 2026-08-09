@@ -12,7 +12,7 @@ const allGroups = groupsData as WordGroupType[];
 const allWords = wordsData as Word[];
 
 export function LearnPage() {
-  const { todayProgress, getAllProgress } = useProgressContext();
+  const { getAllProgress } = useProgressContext();
   const [activeGroupId, setActiveGroupId] = useState<number | null>(null);
   const [allCompletedGroupIds, setAllCompletedGroupIds] = useState<Set<number>>(new Set());
 
@@ -24,13 +24,9 @@ export function LearnPage() {
       progressList.forEach(p => p.completedGroups.forEach(g => ids.add(g.groupId)));
       setAllCompletedGroupIds(ids);
     } catch {
-      // Fallback: use today's progress only
-      if (todayProgress) {
-        const ids = new Set(todayProgress.completedGroups.map(g => g.groupId));
-        setAllCompletedGroupIds(ids);
-      }
+      console.warn('Failed to load all progress, using empty set');
     }
-  }, [getAllProgress, todayProgress]);
+  }, [getAllProgress]);
 
   useEffect(() => {
     refreshCompletedGroups();
@@ -42,16 +38,11 @@ export function LearnPage() {
     return Array.from(days).sort((a, b) => a - b);
   }, []);
 
-  // Current scheduled day
-  const todayCompletedIds = useMemo(() =>
-    todayProgress?.completedGroups.map(g => g.groupId) || [],
-    [todayProgress]
-  );
-
-  const currentDay = useMemo(() =>
-    calculateCurrentDay(todayCompletedIds, allGroups),
-    [todayCompletedIds]
-  );
+  // Current scheduled day — computed from ALL completed groups across all dates
+  const currentDay = useMemo(() => {
+    const ids = Array.from(allCompletedGroupIds);
+    return calculateCurrentDay(ids, allGroups);
+  }, [allCompletedGroupIds]);
 
   // Selected day (defaults to current day)
   const [selectedDay, setSelectedDay] = useState<number>(currentDay);
