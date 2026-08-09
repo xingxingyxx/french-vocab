@@ -191,6 +191,53 @@ export function useProgress() {
     return todayProgress.completedGroups.length;
   }, [todayProgress]);
 
+  // Export all progress data as a JSON-serializable object
+  const exportAllData = useCallback(async (): Promise<object> => {
+    const allProgress = await getAllProgress();
+    const userStats = await getStats();
+    return {
+      version: 1,
+      exportedAt: new Date().toISOString(),
+      stats: userStats || DEFAULT_STATS,
+      progress: allProgress,
+    };
+  }, [getAllProgress, getStats]);
+
+  // Import progress data and overwrite existing data
+  const importAllData = useCallback(async (data: any): Promise<void> => {
+    if (!data || data.version !== 1) {
+      throw new Error('Invalid backup file format');
+    }
+    if (!data.progress || !Array.isArray(data.progress)) {
+      throw new Error('Missing progress data in backup');
+    }
+    if (!data.stats) {
+      throw new Error('Missing stats in backup');
+    }
+
+    // Clear and re-save all progress records
+    for (const record of data.progress) {
+      if (record.date && Array.isArray(record.completedGroups)) {
+        await saveProgress(record as DailyProgress);
+      }
+    }
+
+    // Restore stats
+    const importedStats: UserStats = {
+      streak: data.stats.streak || 0,
+      totalWordsLearned: data.stats.totalWordsLearned || 0,
+      totalGroupsCompleted: data.stats.totalGroupsCompleted || 0,
+      lastStudyDate: data.stats.lastStudyDate || null,
+    };
+    await saveStats(importedStats);
+    setStats(importedStats);
+
+    // Reload today's progress
+    const today = new Date().toISOString().split('T')[0];
+    const tp = await getProgress(today);
+    setTodayProgress(tp || { date: today, completedGroups: [], studiedAt: undefined });
+  }, [saveProgress, saveStats, getProgress]);
+
   return {
     stats,
     todayProgress,
@@ -199,5 +246,7 @@ export function useProgress() {
     isGroupCompletedToday,
     getTodayCompletedCount,
     getAllProgress,
+    exportAllData,
+    importAllData,
   };
 }

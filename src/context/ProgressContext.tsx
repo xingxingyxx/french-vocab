@@ -12,6 +12,8 @@ interface ProgressContextType {
   isGroupCompletedToday: (groupId: number) => boolean;
   getTodayCompletedCount: () => number;
   getAllProgress: () => Promise<DailyProgress[]>;
+  exportAllData: () => Promise<object>;
+  importAllData: (data: any) => Promise<void>;
   updateSettings: (settings: Partial<AppSettings>) => void;
 }
 

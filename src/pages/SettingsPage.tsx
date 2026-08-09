@@ -1,7 +1,10 @@
+import { useState, useRef } from 'react';
 import { useProgressContext } from '../context/ProgressContext';
 
 export function SettingsPage() {
-  const { stats, settings, updateSettings } = useProgressContext();
+  const { stats, settings, updateSettings, exportAllData, importAllData } = useProgressContext();
+  const [syncMessage, setSyncMessage] = useState<{ type: 'success' | 'error'; text: string } | null>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   const handleGroupsPerDayChange = (value: number) => {
     updateSettings({ groupsPerDay: value });
@@ -13,6 +16,43 @@ export function SettingsPage() {
 
   const handleReminderTimeChange = (time: string) => {
     updateSettings({ reminderTime: time });
+  };
+
+  // Export progress as JSON file download
+  const handleExport = async () => {
+    try {
+      const data = await exportAllData();
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `french-vocab-backup-${new Date().toISOString().split('T')[0]}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+      setSyncMessage({ type: 'success', text: 'Progress exported successfully!' });
+    } catch {
+      setSyncMessage({ type: 'error', text: 'Export failed. Please try again.' });
+    }
+    setTimeout(() => setSyncMessage(null), 3000);
+  };
+
+  // Import progress from JSON file
+  const handleImport = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    try {
+      const text = await file.text();
+      const data = JSON.parse(text);
+      await importAllData(data);
+      setSyncMessage({ type: 'success', text: 'Progress imported! Reloading...' });
+      setTimeout(() => window.location.reload(), 1000);
+    } catch (err: any) {
+      setSyncMessage({ type: 'error', text: err.message || 'Import failed. Check the file format.' });
+    }
+    // Reset file input
+    if (fileInputRef.current) fileInputRef.current.value = '';
+    setTimeout(() => setSyncMessage(null), 4000);
   };
 
   return (
@@ -110,6 +150,58 @@ export function SettingsPage() {
               {stats.lastStudyDate || '尚未开始'}
             </p>
           </div>
+        </div>
+      </div>
+
+      {/* Data Sync */}
+      <div className="card space-y-4">
+        <h2 className="font-bold text-slate-700">🔄 跨设备同步</h2>
+        <p className="text-sm text-slate-500">
+          导出一台设备的进度文件，在另一台设备导入即可同步学习记录。
+        </p>
+
+        {/* Sync message */}
+        {syncMessage && (
+          <div className={`px-4 py-2.5 rounded-xl text-sm font-medium animate-fade-in-up ${
+            syncMessage.type === 'success'
+              ? 'bg-green-50 text-green-700 border border-green-200'
+              : 'bg-red-50 text-red-700 border border-red-200'
+          }`}>
+            {syncMessage.text}
+          </div>
+        )}
+
+        <div className="flex gap-3">
+          <button
+            onClick={handleExport}
+            className="flex-1 btn-outline text-sm py-2.5 flex items-center justify-center gap-2"
+          >
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4" />
+              <polyline points="7,10 12,15 17,10" />
+              <line x1="12" y1="15" x2="12" y2="3" />
+            </svg>
+            导出进度
+          </button>
+
+          <button
+            onClick={() => fileInputRef.current?.click()}
+            className="flex-1 btn-outline text-sm py-2.5 flex items-center justify-center gap-2"
+          >
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4" />
+              <polyline points="3,10 12,15 21,10" />
+              <line x1="12" y1="3" x2="12" y2="15" />
+            </svg>
+            导入进度
+          </button>
+          <input
+            ref={fileInputRef}
+            type="file"
+            accept=".json"
+            onChange={handleImport}
+            className="hidden"
+          />
         </div>
       </div>
 
